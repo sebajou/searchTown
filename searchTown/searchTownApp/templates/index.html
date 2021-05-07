@@ -1,0 +1,60 @@
+{% extends 'searchTownApp/base.html' %}
+{% block content %}
+<div>
+    <div>
+        <div></div>
+        <div>
+            <h3 class="round3" style="text-align:center;">Contacts</h3>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+        <div>
+            <br />
+            <a href="{% url 'create' %}">
+                <button type="button" class="btn btn-success">
+                    <span class="glyphicon glyphicon-plus"></span>
+                </button>
+            </a>
+        </div>
+    </div>
+    <br />
+    {% for town in town_list %}
+    <div>
+        <div></div>
+        <div">
+            <ul>
+
+                <li>
+                    <a href="{% url 'detail' town.pk %}"> {{ town.firstName }} {{town.name}} </a> <span></span>
+                </li>
+            </ul>
+            <br>
+        </div>
+        <div>
+            <a href="{% url 'detail' town.pk %}">
+                <button type="button">
+                    <span></span>
+                </button>
+            </a>
+        </div>
+        <div>
+            <a href="{% url 'edit' town.pk %}">
+                <button type="button">
+                    <span></span>
+                </button>
+            </a>
+        </div>
+        <div>
+            <a href="{% url 'delete' town.pk %}">
+                <button type="button">
+                    <span></span>
+                </button>
+            </a>
+        </div>
+        <div></div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

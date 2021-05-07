@@ -4,7 +4,7 @@ from django.db import models
 
 
 class CodesPostaux(models.Model):
-    codePostal = models.IntegerField(primary_key=True)
+    codePostal = models.CharField(primary_key=True, max_length=20)
 
     class Meta:
         managed = True
@@ -12,7 +12,7 @@ class CodesPostaux(models.Model):
 
 
 class Region(models.Model):
-    codeRegion = models.IntegerField(primary_key=True)
+    codeRegion = models.CharField(primary_key=True, max_length=20)
     nameRegion = models.CharField(max_length=70)
 
     class Meta:
@@ -22,7 +22,7 @@ class Region(models.Model):
 
 class Departement(models.Model):
     codeDepartement = models.CharField(primary_key=True, max_length=20)
-    nameDepartement = models.IntegerField()
+    nameDepartement = models.CharField(max_length=70)
     codeRegion = models.ForeignKey(Region, on_delete=models.DO_NOTHING)
 
     class Meta:
@@ -31,7 +31,7 @@ class Departement(models.Model):
 
 
 class Town(models.Model):
-    codeTown = models.IntegerField(primary_key=True)
+    codeTown = models.CharField(primary_key=True, max_length=20)
     nameTown = models.CharField(max_length=70)
     centerCoordinateLat = models.IntegerField()
     centerCoordinateLong = models.IntegerField()
