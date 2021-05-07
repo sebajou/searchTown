@@ -15,8 +15,8 @@ class PopDBFromJson:
 
     @staticmethod
     def json_region_data_from_api(code_region):
-        """
-        Request https://geo.api.gouv.fr/departements?codeRegion=codes_region&fields=nom,code,codeRegion,region
+        f"""
+        Request https://geo.api.gouv.fr/regions?code=code_region&fields=nom,code
         to obtain from region code list data about region in a json.
         """
 

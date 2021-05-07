@@ -1,0 +1,9464 @@
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3851,
+      44.7107
+    ]
+  },
+  "surface": 1919.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 457,
+  "nom": "Solaure en Diois",
+  "code": "26001",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26140"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8695,
+      45.2395
+    ]
+  },
+  "surface": 2613.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1933,
+  "nom": "Albon",
+  "code": "26002",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9441,
+      44.4995
+    ]
+  },
+  "surface": 667.64,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 46,
+  "nom": "Aleyrac",
+  "code": "26003",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0084,
+      44.9805
+    ]
+  },
+  "surface": 2833.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2497,
+  "nom": "Alixan",
+  "code": "26004",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26780"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7944,
+      44.491
+    ]
+  },
+  "surface": 2920.01,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1706,
+  "nom": "Allan",
+  "code": "26005",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9136,
+      44.7783
+    ]
+  },
+  "surface": 2034.65,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2495,
+  "nom": "Allex",
+  "code": "26006",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26800"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9099,
+      44.7921
+    ]
+  },
+  "surface": 117.74,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 120,
+  "nom": "Ambonil",
+  "code": "26007",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26200"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7228,
+      44.5792
+    ]
+  },
+  "surface": 171.43,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1329,
+  "nom": "Ancône",
+  "code": "26008",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26140"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8107,
+      45.2509
+    ]
+  },
+  "surface": 603.76,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1338,
+  "nom": "Andancette",
+  "code": "26009",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26140"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8976,
+      45.2617
+    ]
+  },
+  "surface": 3677.84,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3962,
+  "nom": "Anneyron",
+  "code": "26010",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0572,
+      44.7071
+    ]
+  },
+  "surface": 1790.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2495,
+  "nom": "Aouste-sur-Sye",
+  "code": "26011",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3126,
+      44.4941
+    ]
+  },
+  "surface": 1968.25,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 26,
+  "nom": "Arnayon",
+  "code": "26012",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2723,
+      44.3682
+    ]
+  },
+  "surface": 1349.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 77,
+  "nom": "Arpavon",
+  "code": "26013",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0626,
+      45.142
+    ]
+  },
+  "surface": 574.98,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 579,
+  "nom": "Arthémonay",
+  "code": "26014",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1458,
+      44.6801
+    ]
+  },
+  "surface": 686.79,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 67,
+  "nom": "Aubenasson",
+  "code": "26015",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1549,
+      44.39
+    ]
+  },
+  "surface": 2024.7,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 415,
+  "nom": "Aubres",
+  "code": "26016",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.345,
+      44.6205
+    ]
+  },
+  "surface": 2684.77,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 15,
+  "nom": "Aucelon",
+  "code": "26017",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26570"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4238,
+      44.2305
+    ]
+  },
+  "surface": 1071.6,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 11,
+  "nom": "Aulan",
+  "code": "26018",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3029,
+      44.6912
+    ]
+  },
+  "surface": 2616.55,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 242,
+  "nom": "Aurel",
+  "code": "26019",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9929,
+      44.651
+    ]
+  },
+  "surface": 1522.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 230,
+  "nom": "La Répara-Auriples",
+  "code": "26020",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9698,
+      44.678
+    ]
+  },
+  "surface": 627,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 119,
+  "nom": "Autichamp",
+  "code": "26021",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6418,
+      44.2462
+    ]
+  },
+  "surface": 1686.68,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 83,
+  "nom": "Ballons",
+  "code": "26022",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1652,
+      44.941
+    ]
+  },
+  "surface": 1443.42,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1036,
+  "nom": "Barbières",
+  "code": "26023",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0527,
+      44.8699
+    ]
+  },
+  "surface": 824.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 349,
+  "nom": "Barcelonne",
+  "code": "26024",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3778,
+      44.6614
+    ]
+  },
+  "surface": 1247.31,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 193,
+  "nom": "Barnave",
+  "code": "26025",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26570"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.513,
+      44.1805
+    ]
+  },
+  "surface": 3500.89,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 80,
+  "nom": "Barret-de-Lioure",
+  "code": "26026",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3052,
+      44.7246
+    ]
+  },
+  "surface": 1583.86,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 139,
+  "nom": "Barsac",
+  "code": "26027",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5,
+      45.1835
+    ]
+  },
+  "surface": 576.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 249,
+  "nom": "Bathernay",
+  "code": "26028",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6312,
+      44.5163
+    ]
+  },
+  "surface": 1158.11,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 5,
+  "nom": "La Bâtie-des-Fonds",
+  "code": "26030",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8676,
+      44.5551
+    ]
+  },
+  "surface": 832.9,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1001,
+  "nom": "La Bâtie-Rolland",
+  "code": "26031",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0444,
+      44.8312
+    ]
+  },
+  "surface": 1439.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 438,
+  "nom": "La Baume-Cornillane",
+  "code": "26032",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26790"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8692,
+      44.3265
+    ]
+  },
+  "surface": 1210.6,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 859,
+  "nom": "La Baume-de-Transit",
+  "code": "26033",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26730"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2165,
+      45.0636
+    ]
+  },
+  "surface": 856.53,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 567,
+  "nom": "La Baume-d'Hostun",
+  "code": "26034",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1535,
+      44.7795
+    ]
+  },
+  "surface": 956.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 468,
+  "nom": "Beaufort-sur-Gervanne",
+  "code": "26035",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4724,
+      44.566
+    ]
+  },
+  "surface": 1750.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 101,
+  "nom": "Beaumont-en-Diois",
+  "code": "26036",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26760"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9475,
+      44.8714
+    ]
+  },
+  "surface": 1775.71,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3670,
+  "nom": "Beaumont-lès-Valence",
+  "code": "26037",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9265,
+      45.039
+    ]
+  },
+  "surface": 1343.12,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1304,
+  "nom": "Beaumont-Monteux",
+  "code": "26038",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.163,
+      45.0128
+    ]
+  },
+  "surface": 2380.29,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 831,
+  "nom": "Beauregard-Baret",
+  "code": "26039",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5596,
+      44.555
+    ]
+  },
+  "surface": 2451.97,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 73,
+  "nom": "Beaurières",
+  "code": "26040",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8409,
+      45.2124
+    ]
+  },
+  "surface": 1184.27,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1434,
+  "nom": "Beausemblant",
+  "code": "26041",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26800"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.902,
+      44.856
+    ]
+  },
+  "surface": 323,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1582,
+  "nom": "Beauvallon",
+  "code": "26042",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2114,
+      44.3032
+    ]
+  },
+  "surface": 905.74,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 147,
+  "nom": "Beauvoisin",
+  "code": "26043",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9286,
+      44.5514
+    ]
+  },
+  "surface": 2393.22,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1670,
+  "nom": "La Bégude-de-Mazenc",
+  "code": "26045",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3548,
+      44.3518
+    ]
+  },
+  "surface": 1363.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 80,
+  "nom": "Bellecombe-Tarendol",
+  "code": "26046",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4329,
+      44.538
+    ]
+  },
+  "surface": 2555.54,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 83,
+  "nom": "Bellegarde-en-Diois",
+  "code": "26047",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1898,
+      44.3096
+    ]
+  },
+  "surface": 929.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 62,
+  "nom": "Bénivay-Ollon",
+  "code": "26048",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0932,
+      44.9655
+    ]
+  },
+  "surface": 954.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1204,
+  "nom": "Bésayes",
+  "code": "26049",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3226,
+      44.3213
+    ]
+  },
+  "surface": 908.33,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 76,
+  "nom": "Bésignan",
+  "code": "26050",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1773,
+      44.6176
+    ]
+  },
+  "surface": 1791.26,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 72,
+  "nom": "Bézaudun-sur-Bîne",
+  "code": "26051",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8672,
+      44.584
+    ]
+  },
+  "surface": 613.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 467,
+  "nom": "Bonlieu-sur-Roubion",
+  "code": "26052",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26790"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8822,
+      44.2989
+    ]
+  },
+  "surface": 1191.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1499,
+  "nom": "Bouchet",
+  "code": "26054",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26410"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.584,
+      44.6378
+    ]
+  },
+  "surface": 5709.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 126,
+  "nom": "Boulc",
+  "code": "26055",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1528,
+      44.5701
+    ]
+  },
+  "surface": 2329.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 639,
+  "nom": "Bourdeaux",
+  "code": "26056",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0552,
+      45.0218
+    ]
+  },
+  "surface": 1389.66,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 10498,
+  "nom": "Bourg-de-Péage",
+  "code": "26057",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26500"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9003,
+      44.9612
+    ]
+  },
+  "surface": 2023.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 20078,
+  "nom": "Bourg-lès-Valence",
+  "code": "26058",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2902,
+      44.9285
+    ]
+  },
+  "surface": 8455.96,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 238,
+  "nom": "Bouvante",
+  "code": "26059",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2123,
+      44.5177
+    ]
+  },
+  "surface": 2508.15,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 147,
+  "nom": "Bouvières",
+  "code": "26060",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9514,
+      45.1472
+    ]
+  },
+  "surface": 1110.92,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 557,
+  "nom": "Bren",
+  "code": "26061",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3229,
+      44.5899
+    ]
+  },
+  "surface": 1559.34,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 41,
+  "nom": "Brette",
+  "code": "26062",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2735,
+      44.2777
+    ]
+  },
+  "surface": 3409.24,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2293,
+  "nom": "Buis-les-Baronnies",
+  "code": "26063",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0143,
+      44.9001
+    ]
+  },
+  "surface": 3991.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6880,
+  "nom": "Chabeuil",
+  "code": "26064",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9629,
+      44.7121
+    ]
+  },
+  "surface": 1752.19,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 706,
+  "nom": "Chabrillan",
+  "code": "26065",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1806,
+      44.8716
+    ]
+  },
+  "surface": 1169.72,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 42,
+  "nom": "Le Chaffal",
+  "code": "26066",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3284,
+      44.532
+    ]
+  },
+  "surface": 3593.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 49,
+  "nom": "Chalancon",
+  "code": "26067",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0832,
+      45.1555
+    ]
+  },
+  "surface": 849.07,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 211,
+  "nom": "Le Chalon",
+  "code": "26068",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.389,
+      44.8059
+    ]
+  },
+  "surface": 2207.89,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 131,
+  "nom": "Chamaloc",
+  "code": "26069",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8707,
+      44.3934
+    ]
+  },
+  "surface": 804.8,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 561,
+  "nom": "Chamaret",
+  "code": "26070",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9176,
+      45.0585
+    ]
+  },
+  "surface": 816.83,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1075,
+  "nom": "Chanos-Curson",
+  "code": "26071",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8857,
+      45.1153
+    ]
+  },
+  "surface": 1557.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1278,
+  "nom": "Chantemerle-les-Blés",
+  "code": "26072",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8352,
+      44.405
+    ]
+  },
+  "surface": 1005.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 261,
+  "nom": "Chantemerle-lès-Grignan",
+  "code": "26073",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26420"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4091,
+      44.9805
+    ]
+  },
+  "surface": 4543.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 699,
+  "nom": "La Chapelle-en-Vercors",
+  "code": "26074",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4487,
+      44.4694
+    ]
+  },
+  "surface": 947.81,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 35,
+  "nom": "La Charce",
+  "code": "26075",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5078,
+      44.5427
+    ]
+  },
+  "surface": 1297.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 29,
+  "nom": "Charens",
+  "code": "26076",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0144,
+      45.1614
+    ]
+  },
+  "surface": 1302.93,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 934,
+  "nom": "Charmes-sur-l'Herbasse",
+  "code": "26077",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26450"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9549,
+      44.5861
+    ]
+  },
+  "surface": 734.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 903,
+  "nom": "Charols",
+  "code": "26078",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.083,
+      44.9431
+    ]
+  },
+  "surface": 1583.37,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1367,
+  "nom": "Charpey",
+  "code": "26079",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2074,
+      44.6592
+    ]
+  },
+  "surface": 1311.42,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 38,
+  "nom": "Chastel-Arnaud",
+  "code": "26080",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1026,
+      44.896
+    ]
+  },
+  "surface": 1740.99,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 581,
+  "nom": "Châteaudouble",
+  "code": "26081",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1629,
+      44.3314
+    ]
+  },
+  "surface": 1546.43,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 95,
+  "nom": "Châteauneuf-de-Bordette",
+  "code": "26082",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26330"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.958,
+      45.2368
+    ]
+  },
+  "surface": 1834.07,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1792,
+  "nom": "Châteauneuf-de-Galaure",
+  "code": "26083",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.952,
+      45.0031
+    ]
+  },
+  "surface": 4575.64,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3840,
+  "nom": "Châteauneuf-sur-Isère",
+  "code": "26084",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26780"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7285,
+      44.5035
+    ]
+  },
+  "surface": 2761.43,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2732,
+  "nom": "Châteauneuf-du-Rhône",
+  "code": "26085",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26410"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.53,
+      44.7268
+    ]
+  },
+  "surface": 11041.83,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 667,
+  "nom": "Châtillon-en-Diois",
+  "code": "26086",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1367,
+      45.0959
+    ]
+  },
+  "surface": 897.03,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1355,
+  "nom": "Châtillon-Saint-Jean",
+  "code": "26087",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1087,
+      45.0096
+    ]
+  },
+  "surface": 2821.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 5413,
+  "nom": "Chatuzange-le-Goubet",
+  "code": "26088",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2381,
+      44.4737
+    ]
+  },
+  "surface": 2078.75,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 53,
+  "nom": "Chaudebonne",
+  "code": "26089",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2271,
+      44.6339
+    ]
+  },
+  "surface": 1234.7,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 24,
+  "nom": "La Chaudière",
+  "code": "26090",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5377,
+      44.3248
+    ]
+  },
+  "surface": 2455.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 43,
+  "nom": "Chauvac-Laux-Montaux",
+  "code": "26091",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9224,
+      45.1033
+    ]
+  },
+  "surface": 471.18,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 697,
+  "nom": "Chavannes",
+  "code": "26092",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26130"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8037,
+      44.3782
+    ]
+  },
+  "surface": 1465.56,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 522,
+  "nom": "Clansayes",
+  "code": "26093",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9464,
+      45.1673
+    ]
+  },
+  "surface": 1633.24,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 869,
+  "nom": "Claveyson",
+  "code": "26094",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26450"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9346,
+      44.6103
+    ]
+  },
+  "surface": 1030.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 845,
+  "nom": "Cléon-d'Andran",
+  "code": "26095",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9559,
+      45.0809
+    ]
+  },
+  "surface": 1371.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2019,
+  "nom": "Clérieux",
+  "code": "26096",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26270"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8373,
+      44.7213
+    ]
+  },
+  "surface": 962.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 643,
+  "nom": "Cliousclat",
+  "code": "26097",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0702,
+      44.7527
+    ]
+  },
+  "surface": 1129.4,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 163,
+  "nom": "Cobonne",
+  "code": "26098",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.898,
+      44.3838
+    ]
+  },
+  "surface": 632.77,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 552,
+  "nom": "Colonzelle",
+  "code": "26099",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1055,
+      44.8668
+    ]
+  },
+  "surface": 3572.65,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 409,
+  "nom": "Combovin",
+  "code": "26100",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1085,
+      44.5483
+    ]
+  },
+  "surface": 1196.04,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 164,
+  "nom": "Comps",
+  "code": "26101",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8288,
+      44.6384
+    ]
+  },
+  "surface": 998.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 141,
+  "nom": "Condillac",
+  "code": "26102",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1798,
+      44.416
+    ]
+  },
+  "surface": 2248.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 480,
+  "nom": "Condorcet",
+  "code": "26103",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3994,
+      44.4407
+    ]
+  },
+  "surface": 1915.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 81,
+  "nom": "Cornillac",
+  "code": "26104",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3633,
+      44.4562
+    ]
+  },
+  "surface": 1451.18,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 69,
+  "nom": "Cornillon-sur-l'Oule",
+  "code": "26105",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7864,
+      44.64
+    ]
+  },
+  "surface": 998.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1055,
+  "nom": "La Coucourde",
+  "code": "26106",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0675,
+      45.1742
+    ]
+  },
+  "surface": 1150.98,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 561,
+  "nom": "Crépol",
+  "code": "26107",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0295,
+      44.7351
+    ]
+  },
+  "surface": 2367.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 8380,
+  "nom": "Crest",
+  "code": "26108",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8452,
+      45.1025
+    ]
+  },
+  "surface": 567.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 651,
+  "nom": "Crozes-Hermitage",
+  "code": "26110",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1714,
+      44.5537
+    ]
+  },
+  "surface": 1326.88,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 98,
+  "nom": "Crupies",
+  "code": "26111",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2367,
+      44.3866
+    ]
+  },
+  "surface": 812.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 172,
+  "nom": "Curnier",
+  "code": "26112",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3807,
+      44.7488
+    ]
+  },
+  "surface": 5761,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 4585,
+  "nom": "Die",
+  "code": "26113",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0743,
+      44.5346
+    ]
+  },
+  "surface": 2765.81,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3121,
+  "nom": "Dieulefit",
+  "code": "26114",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.008,
+      44.699
+    ]
+  },
+  "surface": 1314.34,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 637,
+  "nom": "Divajeu",
+  "code": "26115",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26290"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7023,
+      44.4245
+    ]
+  },
+  "surface": 3248.58,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 5739,
+  "nom": "Donzère",
+  "code": "26116",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3804,
+      45.0254
+    ]
+  },
+  "surface": 1121.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 48,
+  "nom": "Échevis",
+  "code": "26117",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9396,
+      45.3154
+    ]
+  },
+  "surface": 1139.74,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1558,
+  "nom": "Épinouze",
+  "code": "26118",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8388,
+      45.1272
+    ]
+  },
+  "surface": 752.98,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 818,
+  "nom": "Érôme",
+  "code": "26119",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26780"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8205,
+      44.524
+    ]
+  },
+  "surface": 1135.37,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1039,
+  "nom": "Espeluche",
+  "code": "26121",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.233,
+      44.688
+    ]
+  },
+  "surface": 1509.2,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 167,
+  "nom": "Espenel",
+  "code": "26122",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4423,
+      44.5026
+    ]
+  },
+  "surface": 1272.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 28,
+  "nom": "Establet",
+  "code": "26123",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26800"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8659,
+      44.8279
+    ]
+  },
+  "surface": 4016.66,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 5412,
+  "nom": "Étoile-sur-Rhône",
+  "code": "26124",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9763,
+      44.765
+    ]
+  },
+  "surface": 1894.4,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1305,
+  "nom": "Eurre",
+  "code": "26125",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5928,
+      44.2282
+    ]
+  },
+  "surface": 1825.75,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 84,
+  "nom": "Eygalayes",
+  "code": "26126",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2833,
+      44.2395
+    ]
+  },
+  "surface": 818.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 103,
+  "nom": "Eygaliers",
+  "code": "26127",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2065,
+      44.7963
+    ]
+  },
+  "surface": 2647.9,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 65,
+  "nom": "Eygluy-Escoulin",
+  "code": "26128",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26730"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.183,
+      45.066
+    ]
+  },
+  "surface": 1009.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1032,
+  "nom": "Eymeux",
+  "code": "26129",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2479,
+      44.4175
+    ]
+  },
+  "surface": 876,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 30,
+  "nom": "Eyroles",
+  "code": "26130",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0058,
+      44.5646
+    ]
+  },
+  "surface": 674.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 142,
+  "nom": "Eyzahut",
+  "code": "26131",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.907,
+      45.221
+    ]
+  },
+  "surface": 453.7,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 166,
+  "nom": "Fay-le-Clos",
+  "code": "26133",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0546,
+      44.5758
+    ]
+  },
+  "surface": 846.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 76,
+  "nom": "Félines-sur-Rimandoule",
+  "code": "26134",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26570"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.494,
+      44.1345
+    ]
+  },
+  "surface": 2934.06,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 129,
+  "nom": "Ferrassières",
+  "code": "26135",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5931,
+      44.5902
+    ]
+  },
+  "surface": 2092.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 57,
+  "nom": "Val-Maravel",
+  "code": "26136",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0692,
+      44.6133
+    ]
+  },
+  "surface": 1098.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 192,
+  "nom": "Francillon-sur-Roubion",
+  "code": "26137",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26700"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7493,
+      44.3914
+    ]
+  },
+  "surface": 2785.21,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1048,
+  "nom": "La Garde-Adhémar",
+  "code": "26138",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0873,
+      45.0849
+    ]
+  },
+  "surface": 909.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2183,
+  "nom": "Génissieux",
+  "code": "26139",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0904,
+      45.1248
+    ]
+  },
+  "surface": 1095.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 721,
+  "nom": "Geyssans",
+  "code": "26140",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1176,
+      44.8161
+    ]
+  },
+  "surface": 3532.07,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 178,
+  "nom": "Gigors-et-Lozeron",
+  "code": "26141",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26410"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6127,
+      44.6946
+    ]
+  },
+  "surface": 5253.2,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 113,
+  "nom": "Glandage",
+  "code": "26142",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26530"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1076,
+      45.2677
+    ]
+  },
+  "surface": 2496.01,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 907,
+  "nom": "Le Grand-Serre",
+  "code": "26143",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8897,
+      44.7175
+    ]
+  },
+  "surface": 4546.12,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1895,
+  "nom": "Grane",
+  "code": "26144",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26290"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.752,
+      44.4216
+    ]
+  },
+  "surface": 732.08,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 632,
+  "nom": "Les Granges-Gontardes",
+  "code": "26145",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.913,
+      44.4387
+    ]
+  },
+  "surface": 4426.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1545,
+  "nom": "Grignan",
+  "code": "26146",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.264,
+      44.5104
+    ]
+  },
+  "surface": 886.46,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 20,
+  "nom": "Gumiane",
+  "code": "26147",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26390"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0373,
+      45.2502
+    ]
+  },
+  "surface": 3085.9,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1900,
+  "nom": "Hauterives",
+  "code": "26148",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26730"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1948,
+      45.0353
+    ]
+  },
+  "surface": 1842.02,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 975,
+  "nom": "Hostun",
+  "code": "26149",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6019,
+      44.2642
+    ]
+  },
+  "surface": 1460.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 10,
+  "nom": "Izon-la-Bruisse",
+  "code": "26150",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4103,
+      44.5646
+    ]
+  },
+  "surface": 1634.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 29,
+  "nom": "Jonchères",
+  "code": "26152",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5999,
+      44.2915
+    ]
+  },
+  "surface": 2368.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 104,
+  "nom": "Laborel",
+  "code": "26153",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6588,
+      44.2197
+    ]
+  },
+  "surface": 2574.67,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 228,
+  "nom": "Lachau",
+  "code": "26154",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9832,
+      45.3273
+    ]
+  },
+  "surface": 1148.71,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1217,
+  "nom": "Lapeyrouse-Mornay",
+  "code": "26155",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8628,
+      45.0968
+    ]
+  },
+  "surface": 916.4,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1073,
+  "nom": "Larnage",
+  "code": "26156",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8539,
+      44.6147
+    ]
+  },
+  "surface": 960.18,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 774,
+  "nom": "La Laupie",
+  "code": "26157",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4526,
+      44.7416
+    ]
+  },
+  "surface": 1989.04,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 122,
+  "nom": "Laval-d'Aix",
+  "code": "26159",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8237,
+      45.1947
+    ]
+  },
+  "surface": 523,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1165,
+  "nom": "Laveyron",
+  "code": "26160",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.416,
+      44.3548
+    ]
+  },
+  "surface": 1689.54,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 48,
+  "nom": "Lemps",
+  "code": "26161",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0422,
+      45.2925
+    ]
+  },
+  "surface": 1656.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 859,
+  "nom": "Lens-Lestang",
+  "code": "26162",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1949,
+      44.9272
+    ]
+  },
+  "surface": 4295.19,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 52,
+  "nom": "Léoncel",
+  "code": "26163",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5108,
+      44.5935
+    ]
+  },
+  "surface": 1990.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 50,
+  "nom": "Lesches-en-Diois",
+  "code": "26164",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26250"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.832,
+      44.7897
+    ]
+  },
+  "surface": 4177.12,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 9098,
+  "nom": "Livron-sur-Drôme",
+  "code": "26165",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26270"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8093,
+      44.7482
+    ]
+  },
+  "surface": 2867.91,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6561,
+  "nom": "Loriol-sur-Drôme",
+  "code": "26166",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.461,
+      44.6104
+    ]
+  },
+  "surface": 2311.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 489,
+  "nom": "Luc-en-Diois",
+  "code": "26167",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26620"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.7314,
+      44.6812
+    ]
+  },
+  "surface": 8801.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 549,
+  "nom": "Lus-la-Croix-Haute",
+  "code": "26168",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26780"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.75,
+      44.4766
+    ]
+  },
+  "surface": 1662.63,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1988,
+  "nom": "Malataverne",
+  "code": "26169",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.964,
+      44.8965
+    ]
+  },
+  "surface": 1019.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3192,
+  "nom": "Malissard",
+  "code": "26170",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9806,
+      44.6006
+    ]
+  },
+  "surface": 188.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 195,
+  "nom": "Manas",
+  "code": "26171",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.004,
+      45.3098
+    ]
+  },
+  "surface": 681.91,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 669,
+  "nom": "Manthes",
+  "code": "26172",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1173,
+      44.9797
+    ]
+  },
+  "surface": 1128.03,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 789,
+  "nom": "Marches",
+  "code": "26173",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0323,
+      45.1311
+    ]
+  },
+  "surface": 991,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1133,
+  "nom": "Margès",
+  "code": "26174",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3341,
+      44.8074
+    ]
+  },
+  "surface": 1852.79,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 208,
+  "nom": "Marignac-en-Diois",
+  "code": "26175",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8851,
+      44.641
+    ]
+  },
+  "surface": 3457.35,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1333,
+  "nom": "Marsanne",
+  "code": "26176",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9355,
+      45.1172
+    ]
+  },
+  "surface": 912.79,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 792,
+  "nom": "Marsaz",
+  "code": "26177",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26410"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4685,
+      44.661
+    ]
+  },
+  "surface": 3647.91,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 501,
+  "nom": "Menglon",
+  "code": "26178",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8944,
+      45.0776
+    ]
+  },
+  "surface": 2497.55,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2623,
+  "nom": "Mercurol-Veaunes",
+  "code": "26179",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1654,
+      44.2686
+    ]
+  },
+  "surface": 954.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 229,
+  "nom": "Mérindol-les-Oliviers",
+  "code": "26180",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.472,
+      44.2332
+    ]
+  },
+  "surface": 2927.29,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 241,
+  "nom": "Mévouillon",
+  "code": "26181",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1137,
+      44.3142
+    ]
+  },
+  "surface": 2274.8,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1590,
+  "nom": "Mirabel-aux-Baronnies",
+  "code": "26182",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1285,
+      44.7144
+    ]
+  },
+  "surface": 1775.47,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1058,
+  "nom": "Mirabel-et-Blacons",
+  "code": "26183",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26270"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8396,
+      44.6907
+    ]
+  },
+  "surface": 2657.68,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 574,
+  "nom": "Mirmande",
+  "code": "26185",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5085,
+      44.6238
+    ]
+  },
+  "surface": 1217.75,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 56,
+  "nom": "Miscon",
+  "code": "26186",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1923,
+      44.2293
+    ]
+  },
+  "surface": 2040.72,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1060,
+  "nom": "Mollans-sur-Ouvèze",
+  "code": "26188",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.516,
+      44.2799
+    ]
+  },
+  "surface": 3260.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 109,
+  "nom": "Montauban-sur-l'Ouvèze",
+  "code": "26189",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2167,
+      44.3612
+    ]
+  },
+  "surface": 1314.02,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 83,
+  "nom": "Montaulieu",
+  "code": "26190",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.815,
+      44.554
+    ]
+  },
+  "surface": 1003.89,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2273,
+  "nom": "Montboucher-sur-Jabron",
+  "code": "26191",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0189,
+      44.4351
+    ]
+  },
+  "surface": 1317.7,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 286,
+  "nom": "Montbrison-sur-Lez",
+  "code": "26192",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26570"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4349,
+      44.1838
+    ]
+  },
+  "surface": 3353.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 444,
+  "nom": "Montbrun-les-Bains",
+  "code": "26193",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0373,
+      45.1888
+    ]
+  },
+  "surface": 1652.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 581,
+  "nom": "Montchenu",
+  "code": "26194",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1601,
+      44.7498
+    ]
+  },
+  "surface": 3006.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 181,
+  "nom": "Montclar-sur-Gervanne",
+  "code": "26195",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26760"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9314,
+      44.859
+    ]
+  },
+  "surface": 949.86,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1798,
+  "nom": "Montéléger",
+  "code": "26196",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0258,
+      44.9402
+    ]
+  },
+  "surface": 2462.6,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 4077,
+  "nom": "Montélier",
+  "code": "26197",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26200"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7457,
+      44.5555
+    ]
+  },
+  "surface": 4645.25,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 38692,
+  "nom": "Montélimar",
+  "code": "26198",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4504,
+      44.3458
+    ]
+  },
+  "surface": 1140.5,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 30,
+  "nom": "Montferrand-la-Fare",
+  "code": "26199",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.6454,
+      44.1678
+    ]
+  },
+  "surface": 1474.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 75,
+  "nom": "Montfroc",
+  "code": "26200",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4731,
+      44.2992
+    ]
+  },
+  "surface": 1109.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 43,
+  "nom": "Montguers",
+  "code": "26201",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1045,
+      44.4956
+    ]
+  },
+  "surface": 1852.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 339,
+  "nom": "Montjoux",
+  "code": "26202",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8728,
+      44.4796
+    ]
+  },
+  "surface": 1830.15,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 279,
+  "nom": "Montjoyer",
+  "code": "26203",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4178,
+      44.6279
+    ]
+  },
+  "surface": 945.32,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 149,
+  "nom": "Montlaur-en-Diois",
+  "code": "26204",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3641,
+      44.6793
+    ]
+  },
+  "surface": 1286.98,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 82,
+  "nom": "Montmaur-en-Diois",
+  "code": "26205",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9851,
+      44.8337
+    ]
+  },
+  "surface": 2361.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2877,
+  "nom": "Montmeyran",
+  "code": "26206",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1655,
+      45.151
+    ]
+  },
+  "surface": 2654.19,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 660,
+  "nom": "Montmiral",
+  "code": "26207",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26800"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9254,
+      44.7977
+    ]
+  },
+  "surface": 1621.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1912,
+  "nom": "Montoison",
+  "code": "26208",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3024,
+      44.4015
+    ]
+  },
+  "surface": 1047.91,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 24,
+  "nom": "Montréal-les-Sources",
+  "code": "26209",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1434,
+      45.2226
+    ]
+  },
+  "surface": 4402.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1002,
+  "nom": "Valherbasse",
+  "code": "26210",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26130"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8673,
+      44.3639
+    ]
+  },
+  "surface": 1858.12,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1291,
+  "nom": "Montségur-sur-Lauzon",
+  "code": "26211",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0199,
+      44.8658
+    ]
+  },
+  "surface": 1725.94,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1167,
+  "nom": "Montvendre",
+  "code": "26212",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0001,
+      45.287
+    ]
+  },
+  "surface": 847.89,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 657,
+  "nom": "Moras-en-Valloire",
+  "code": "26213",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1238,
+      44.6184
+    ]
+  },
+  "surface": 1176.18,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 70,
+  "nom": "Mornans",
+  "code": "26214",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3875,
+      44.4916
+    ]
+  },
+  "surface": 2286.55,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 427,
+  "nom": "La Motte-Chalancon",
+  "code": "26215",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8969,
+      45.2039
+    ]
+  },
+  "surface": 773.52,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 790,
+  "nom": "La Motte-de-Galaure",
+  "code": "26216",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2703,
+      45.0474
+    ]
+  },
+  "surface": 484.65,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 190,
+  "nom": "La Motte-Fanjas",
+  "code": "26217",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26540"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0582,
+      45.0723
+    ]
+  },
+  "surface": 533.34,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3096,
+  "nom": "Mours-Saint-Eusèbe",
+  "code": "26218",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9312,
+      45.2162
+    ]
+  },
+  "surface": 547.17,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 465,
+  "nom": "Mureils",
+  "code": "26219",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1174,
+      44.3567
+    ]
+  },
+  "surface": 2342.97,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6742,
+  "nom": "Nyons",
+  "code": "26220",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2194,
+      44.8554
+    ]
+  },
+  "surface": 4510.74,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 71,
+  "nom": "Omblèze",
+  "code": "26221",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.14,
+      44.5492
+    ]
+  },
+  "surface": 528.42,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 38,
+  "nom": "Orcinas",
+  "code": "26222",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2501,
+      44.9905
+    ]
+  },
+  "surface": 1610.9,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 536,
+  "nom": "Oriol-en-Royans",
+  "code": "26223",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0442,
+      44.8071
+    ]
+  },
+  "surface": 921.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 247,
+  "nom": "Ourches",
+  "code": "26224",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1614,
+      45.1135
+    ]
+  },
+  "surface": 1129.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 699,
+  "nom": "Parnans",
+  "code": "26225",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0666,
+      44.4378
+    ]
+  },
+  "surface": 1136.16,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 362,
+  "nom": "Le Pègue",
+  "code": "26226",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3808,
+      44.3823
+    ]
+  },
+  "surface": 283.08,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 23,
+  "nom": "Pelonne",
+  "code": "26227",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3195,
+      44.6357
+    ]
+  },
+  "surface": 905.78,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 34,
+  "nom": "Pennes-le-Sec",
+  "code": "26228",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2367,
+      44.2512
+    ]
+  },
+  "surface": 745.21,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 99,
+  "nom": "La Penne-sur-l'Ouvèze",
+  "code": "26229",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26380"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0399,
+      45.0991
+    ]
+  },
+  "surface": 2540.26,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2802,
+  "nom": "Peyrins",
+  "code": "26231",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1235,
+      44.9054
+    ]
+  },
+  "surface": 1057.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 605,
+  "nom": "Peyrus",
+  "code": "26232",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1284,
+      44.3021
+    ]
+  },
+  "surface": 1026.79,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 269,
+  "nom": "Piégon",
+  "code": "26233",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0967,
+      44.6854
+    ]
+  },
+  "surface": 2483.86,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 825,
+  "nom": "Piégros-la-Clastre",
+  "code": "26234",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26700"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.6949,
+      44.3705
+    ]
+  },
+  "surface": 4949.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 13286,
+  "nom": "Pierrelatte",
+  "code": "26235",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2142,
+      44.2496
+    ]
+  },
+  "surface": 537.58,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 220,
+  "nom": "Pierrelongue",
+  "code": "26236",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.201,
+      44.3804
+    ]
+  },
+  "surface": 634.46,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 246,
+  "nom": "Les Pilles",
+  "code": "26238",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3378,
+      44.2247
+    ]
+  },
+  "surface": 3022.08,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 197,
+  "nom": "Plaisians",
+  "code": "26239",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1692,
+      44.8232
+    ]
+  },
+  "surface": 1957.81,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 145,
+  "nom": "Plan-de-Baix",
+  "code": "26240",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1029,
+      44.6006
+    ]
+  },
+  "surface": 834.84,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 126,
+  "nom": "Le Poët-Célard",
+  "code": "26241",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3948,
+      44.2467
+    ]
+  },
+  "surface": 616.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 17,
+  "nom": "Le Poët-en-Percip",
+  "code": "26242",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9914,
+      44.5309
+    ]
+  },
+  "surface": 3151.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 923,
+  "nom": "Le Poët-Laval",
+  "code": "26243",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.319,
+      44.3685
+    ]
+  },
+  "surface": 1569.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 119,
+  "nom": "Le Poët-Sigillat",
+  "code": "26244",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.472,
+      44.4388
+    ]
+  },
+  "surface": 1002.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 15,
+  "nom": "Pommerol",
+  "code": "26245",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3139,
+      44.7748
+    ]
+  },
+  "surface": 1341.86,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 126,
+  "nom": "Ponet-et-Saint-Auban",
+  "code": "26246",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8443,
+      45.1537
+    ]
+  },
+  "surface": 275.58,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 521,
+  "nom": "Ponsas",
+  "code": "26247",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2545,
+      44.7547
+    ]
+  },
+  "surface": 1977.67,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 166,
+  "nom": "Pontaix",
+  "code": "26248",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9965,
+      44.5854
+    ]
+  },
+  "surface": 1672.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 671,
+  "nom": "Pont-de-Barret",
+  "code": "26249",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8769,
+      45.0161
+    ]
+  },
+  "surface": 1053.5,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3415,
+  "nom": "Pont-de-l'Isère",
+  "code": "26250",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9131,
+      44.5311
+    ]
+  },
+  "surface": 1528.04,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 397,
+  "nom": "Portes-en-Valdaine",
+  "code": "26251",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26800"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8776,
+      44.8772
+    ]
+  },
+  "surface": 1446.27,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 10445,
+  "nom": "Portes-lès-Valence",
+  "code": "26252",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4196,
+      44.5966
+    ]
+  },
+  "surface": 1300.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 69,
+  "nom": "Poyols",
+  "code": "26253",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2822,
+      44.6202
+    ]
+  },
+  "surface": 1302.35,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 18,
+  "nom": "Pradelle",
+  "code": "26254",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5763,
+      44.5348
+    ]
+  },
+  "surface": 1625.75,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 23,
+  "nom": "Les Prés",
+  "code": "26255",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2071,
+      44.2755
+    ]
+  },
+  "surface": 1126.65,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 124,
+  "nom": "Propiac",
+  "code": "26256",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8581,
+      44.5441
+    ]
+  },
+  "surface": 671.21,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 421,
+  "nom": "Puygiron",
+  "code": "26257",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26450"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9769,
+      44.6249
+    ]
+  },
+  "surface": 1183.18,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 881,
+  "nom": "Puy-Saint-Martin",
+  "code": "26258",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26330"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9676,
+      45.1761
+    ]
+  },
+  "surface": 907.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 270,
+  "nom": "Ratières",
+  "code": "26259",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8424,
+      44.4549
+    ]
+  },
+  "surface": 1868.76,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 383,
+  "nom": "Réauville",
+  "code": "26261",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4041,
+      44.651
+    ]
+  },
+  "surface": 1251.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 271,
+  "nom": "Recoubeau-Jansac",
+  "code": "26262",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26570"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4119,
+      44.1642
+    ]
+  },
+  "surface": 1492.41,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 144,
+  "nom": "Reilhanette",
+  "code": "26263",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3599,
+      44.4067
+    ]
+  },
+  "surface": 1665.03,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 352,
+  "nom": "Rémuzat",
+  "code": "26264",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3135,
+      44.669
+    ]
+  },
+  "surface": 1211.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 28,
+  "nom": "Rimon-et-Savel",
+  "code": "26266",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.465,
+      44.2715
+    ]
+  },
+  "surface": 956.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 26,
+  "nom": "Rioms",
+  "code": "26267",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0252,
+      44.5758
+    ]
+  },
+  "surface": 757.66,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 121,
+  "nom": "Rochebaudin",
+  "code": "26268",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2394,
+      44.326
+    ]
+  },
+  "surface": 1670.75,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 63,
+  "nom": "Rochebrune",
+  "code": "26269",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2483,
+      45.0304
+    ]
+  },
+  "surface": 977.21,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 115,
+  "nom": "Rochechinard",
+  "code": "26270",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8555,
+      45.0186
+    ]
+  },
+  "surface": 1262.74,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3280,
+  "nom": "La Roche-de-Glun",
+  "code": "26271",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8661,
+      44.5103
+    ]
+  },
+  "surface": 1303.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 352,
+  "nom": "Rochefort-en-Valdaine",
+  "code": "26272",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1622,
+      44.9803
+    ]
+  },
+  "surface": 2490.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1000,
+  "nom": "Rochefort-Samson",
+  "code": "26273",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2438,
+      44.6077
+    ]
+  },
+  "surface": 1271.82,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1,
+  "nom": "Rochefourchat",
+  "code": "26274",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26790"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.844,
+      44.2546
+    ]
+  },
+  "surface": 1845.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1586,
+  "nom": "Rochegude",
+  "code": "26275",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0403,
+      44.4818
+    ]
+  },
+  "surface": 3341.09,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 446,
+  "nom": "Roche-Saint-Secret-Béconne",
+  "code": "26276",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9432,
+      44.6742
+    ]
+  },
+  "surface": 1220.16,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 174,
+  "nom": "La Roche-sur-Grane",
+  "code": "26277",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3384,
+      44.2647
+    ]
+  },
+  "surface": 2820.46,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 292,
+  "nom": "La Roche-sur-le-Buis",
+  "code": "26278",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4235,
+      44.2592
+    ]
+  },
+  "surface": 1052.93,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 78,
+  "nom": "La Rochette-du-Buis",
+  "code": "26279",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26100"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0333,
+      45.065
+    ]
+  },
+  "surface": 3343.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 33310,
+  "nom": "Romans-sur-Isère",
+  "code": "26281",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4405,
+      44.7934
+    ]
+  },
+  "surface": 3994.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 198,
+  "nom": "Romeyer",
+  "code": "26282",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4179,
+      44.4773
+    ]
+  },
+  "surface": 838.31,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 21,
+  "nom": "Rottier",
+  "code": "26283",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7915,
+      44.4459
+    ]
+  },
+  "surface": 1600.78,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 365,
+  "nom": "Roussas",
+  "code": "26284",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0661,
+      44.4208
+    ]
+  },
+  "surface": 1558.01,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 293,
+  "nom": "Rousset-les-Vignes",
+  "code": "26285",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4819,
+      44.3352
+    ]
+  },
+  "surface": 956.37,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 23,
+  "nom": "Roussieux",
+  "code": "26286",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26450"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9304,
+      44.6499
+    ]
+  },
+  "surface": 1732.08,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 484,
+  "nom": "Roynac",
+  "code": "26287",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2712,
+      44.4095
+    ]
+  },
+  "surface": 1686.04,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 315,
+  "nom": "Sahune",
+  "code": "26288",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1844,
+      44.6949
+    ]
+  },
+  "surface": 1573.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1233,
+  "nom": "Saillans",
+  "code": "26289",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26420"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4248,
+      44.8824
+    ]
+  },
+  "surface": 8412.02,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 387,
+  "nom": "Saint-Agnan-en-Vercors",
+  "code": "26290",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2634,
+      44.808
+    ]
+  },
+  "surface": 1347.88,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 80,
+  "nom": "Saint-Andéol",
+  "code": "26291",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4331,
+      44.3
+    ]
+  },
+  "surface": 1653.29,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 215,
+  "nom": "Saint-Auban-sur-l'Ouvèze",
+  "code": "26292",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26330"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9638,
+      45.199
+    ]
+  },
+  "surface": 899.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 302,
+  "nom": "Saint-Avit",
+  "code": "26293",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9883,
+      45.0872
+    ]
+  },
+  "surface": 1062.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 607,
+  "nom": "Saint-Bardoux",
+  "code": "26294",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8656,
+      45.169
+    ]
+  },
+  "surface": 2033.67,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1884,
+  "nom": "Saint-Barthélemy-de-Vals",
+  "code": "26295",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2668,
+      44.6587
+    ]
+  },
+  "surface": 1120.77,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 26,
+  "nom": "Saint-Benoit-en-Diois",
+  "code": "26296",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0712,
+      45.2161
+    ]
+  },
+  "surface": 1149.22,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 411,
+  "nom": "Saint-Christophe-et-le-Laris",
+  "code": "26298",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2834,
+      44.7713
+    ]
+  },
+  "surface": 1097.52,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 107,
+  "nom": "Sainte-Croix",
+  "code": "26299",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4829,
+      44.5074
+    ]
+  },
+  "surface": 1384.55,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 48,
+  "nom": "Saint-Dizier-en-Diois",
+  "code": "26300",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26260"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9834,
+      45.1261
+    ]
+  },
+  "surface": 1980.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 4107,
+  "nom": "Saint-Donat-sur-l'Herbasse",
+  "code": "26301",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.347,
+      45.0438
+    ]
+  },
+  "surface": 611.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 540,
+  "nom": "Sainte-Eulalie-en-Royans",
+  "code": "26302",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3953,
+      44.3006
+    ]
+  },
+  "surface": 1129.24,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 71,
+  "nom": "Sainte-Euphémie-sur-Ouvèze",
+  "code": "26303",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2241,
+      44.4409
+    ]
+  },
+  "surface": 2154.72,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 248,
+  "nom": "Saint-Ferréol-Trente-Pas",
+  "code": "26304",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8937,
+      44.5783
+    ]
+  },
+  "surface": 1472.22,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1000,
+  "nom": "Saint-Gervais-sur-Roubion",
+  "code": "26305",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2774,
+      44.3334
+    ]
+  },
+  "surface": 1843.78,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 304,
+  "nom": "Sainte-Jalle",
+  "code": "26306",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2876,
+      45.0115
+    ]
+  },
+  "surface": 2813.37,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2918,
+  "nom": "Saint-Jean-en-Royans",
+  "code": "26307",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2975,
+      44.8638
+    ]
+  },
+  "surface": 4774.47,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 155,
+  "nom": "Saint-Julien-en-Quint",
+  "code": "26308",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26420"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4384,
+      45.0582
+    ]
+  },
+  "surface": 1847.44,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 242,
+  "nom": "Saint-Julien-en-Vercors",
+  "code": "26309",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26350"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1116,
+      45.1797
+    ]
+  },
+  "surface": 626.87,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 152,
+  "nom": "Saint-Laurent-d'Onay",
+  "code": "26310",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3396,
+      45.0134
+    ]
+  },
+  "surface": 2761.93,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1391,
+  "nom": "Saint-Laurent-en-Royans",
+  "code": "26311",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8031,
+      44.6007
+    ]
+  },
+  "surface": 389.86,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1247,
+  "nom": "Saint-Marcel-lès-Sauzet",
+  "code": "26312",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26320"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9446,
+      44.973
+    ]
+  },
+  "surface": 1487.47,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6201,
+  "nom": "Saint-Marcel-lès-Valence",
+  "code": "26313",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26330"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.99,
+      45.2216
+    ]
+  },
+  "surface": 772.33,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 382,
+  "nom": "Saint-Martin-d'Août",
+  "code": "26314",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26420"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4418,
+      45.018
+    ]
+  },
+  "surface": 2700.59,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 371,
+  "nom": "Saint-Martin-en-Vercors",
+  "code": "26315",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2752,
+      44.9853
+    ]
+  },
+  "surface": 318.13,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 190,
+  "nom": "Saint-Martin-le-Colonel",
+  "code": "26316",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0012,
+      44.3079
+    ]
+  },
+  "surface": 901.01,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 771,
+  "nom": "Saint-Maurice-sur-Eygues",
+  "code": "26317",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3289,
+      44.4267
+    ]
+  },
+  "surface": 1045.89,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 41,
+  "nom": "Saint-May",
+  "code": "26318",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1233,
+      45.1486
+    ]
+  },
+  "surface": 1139.58,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 574,
+  "nom": "Saint-Michel-sur-Savasse",
+  "code": "26319",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2437,
+      45.0585
+    ]
+  },
+  "surface": 357.45,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 799,
+  "nom": "Saint-Nazaire-en-Royans",
+  "code": "26320",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.274,
+      44.5551
+    ]
+  },
+  "surface": 4641.57,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 190,
+  "nom": "Saint-Nazaire-le-Désert",
+  "code": "26321",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0437,
+      44.3919
+    ]
+  },
+  "surface": 859.92,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 445,
+  "nom": "Saint-Pantaléon-les-Vignes",
+  "code": "26322",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1279,
+      45.0599
+    ]
+  },
+  "surface": 1551.47,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1822,
+  "nom": "Saint-Paul-lès-Romans",
+  "code": "26323",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26130"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.757,
+      44.3509
+    ]
+  },
+  "surface": 2210.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 9026,
+  "nom": "Saint-Paul-Trois-Châteaux",
+  "code": "26324",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26140"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8317,
+      45.2902
+    ]
+  },
+  "surface": 1325.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6420,
+  "nom": "Saint-Rambert-d'Albon",
+  "code": "26325",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26130"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7968,
+      44.3292
+    ]
+  },
+  "surface": 1450.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1373,
+  "nom": "Saint-Restitut",
+  "code": "26326",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26410"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4305,
+      44.6887
+    ]
+  },
+  "surface": 715.28,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 189,
+  "nom": "Saint-Roman",
+  "code": "26327",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1656,
+      44.6768
+    ]
+  },
+  "surface": 696.21,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 55,
+  "nom": "Saint-Sauveur-en-Diois",
+  "code": "26328",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3719,
+      44.3301
+    ]
+  },
+  "surface": 1954.05,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 183,
+  "nom": "Saint-Sauveur-Gouvernet",
+  "code": "26329",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26210"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9647,
+      45.2748
+    ]
+  },
+  "surface": 2646.1,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2250,
+  "nom": "Saint-Sorlin-en-Valloire",
+  "code": "26330",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26190"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2918,
+      45.0493
+    ]
+  },
+  "surface": 522.26,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 591,
+  "nom": "Saint-Thomas-en-Royans",
+  "code": "26331",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8626,
+      45.1844
+    ]
+  },
+  "surface": 1011.73,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2040,
+  "nom": "Saint-Uze",
+  "code": "26332",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26240"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8207,
+      45.1759
+    ]
+  },
+  "surface": 553.08,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 3896,
+  "nom": "Saint-Vallier",
+  "code": "26333",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9647,
+      44.5687
+    ]
+  },
+  "surface": 706.34,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 148,
+  "nom": "Salettes",
+  "code": "26334",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9369,
+      44.4655
+    ]
+  },
+  "surface": 966.87,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 187,
+  "nom": "Salles-sous-Bois",
+  "code": "26335",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1329,
+      44.6496
+    ]
+  },
+  "surface": 4140.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 556,
+  "nom": "Saou",
+  "code": "26336",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26270"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7936,
+      44.7076
+    ]
+  },
+  "surface": 1897.14,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1850,
+  "nom": "Saulce-sur-Rhône",
+  "code": "26337",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.827,
+      44.587
+    ]
+  },
+  "surface": 1909.4,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1846,
+  "nom": "Sauzet",
+  "code": "26338",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.7845,
+      44.6091
+    ]
+  },
+  "surface": 2219.24,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1446,
+  "nom": "Savasse",
+  "code": "26339",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5574,
+      44.2007
+    ]
+  },
+  "surface": 2040.38,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 267,
+  "nom": "Séderon",
+  "code": "26340",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8335,
+      45.142
+    ]
+  },
+  "surface": 673.85,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 743,
+  "nom": "Serves-sur-Rhône",
+  "code": "26341",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26130"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8264,
+      44.3445
+    ]
+  },
+  "surface": 868.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 342,
+  "nom": "Solérieux",
+  "code": "26342",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9683,
+      44.5383
+    ]
+  },
+  "surface": 523.47,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 97,
+  "nom": "Souspierre",
+  "code": "26343",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0189,
+      44.6408
+    ]
+  },
+  "surface": 2570.96,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 381,
+  "nom": "Soyans",
+  "code": "26344",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26790"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8508,
+      44.299
+    ]
+  },
+  "surface": 3046.11,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 2089,
+  "nom": "Suze-la-Rousse",
+  "code": "26345",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.104,
+      44.7584
+    ]
+  },
+  "surface": 1475.39,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 234,
+  "nom": "Suze",
+  "code": "26346",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8514,
+      45.0716
+    ]
+  },
+  "surface": 456.63,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 6194,
+  "nom": "Tain-l'Hermitage",
+  "code": "26347",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26770"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9801,
+      44.4558
+    ]
+  },
+  "surface": 3535.33,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1697,
+  "nom": "Taulignan",
+  "code": "26348",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26390"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0137,
+      45.2169
+    ]
+  },
+  "surface": 955.69,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 356,
+  "nom": "Tersanne",
+  "code": "26349",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1527,
+      44.4603
+    ]
+  },
+  "surface": 2811.15,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 86,
+  "nom": "Teyssières",
+  "code": "26350",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2078,
+      44.5832
+    ]
+  },
+  "surface": 1291.2,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 21,
+  "nom": "Les Tonils",
+  "code": "26351",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26160"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8841,
+      44.524
+    ]
+  },
+  "surface": 826.6,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 250,
+  "nom": "La Touche",
+  "code": "26352",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26740"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8032,
+      44.6646
+    ]
+  },
+  "surface": 724.27,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1035,
+  "nom": "Les Tourrettes",
+  "code": "26353",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26750"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1107,
+      45.1004
+    ]
+  },
+  "surface": 575.2,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 551,
+  "nom": "Triors",
+  "code": "26355",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26460"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0805,
+      44.5758
+    ]
+  },
+  "surface": 859.96,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 122,
+  "nom": "Truinas",
+  "code": "26356",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26790"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9302,
+      44.286
+    ]
+  },
+  "surface": 2307.22,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1976,
+  "nom": "Tulette",
+  "code": "26357",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26120"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9747,
+      44.7929
+    ]
+  },
+  "surface": 1948.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1529,
+  "nom": "Upie",
+  "code": "26358",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26150"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2522,
+      44.7846
+    ]
+  },
+  "surface": 524.02,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 31,
+  "nom": "Vachères-en-Quint",
+  "code": "26359",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26230"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.809,
+      44.4165
+    ]
+  },
+  "surface": 1241.24,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 593,
+  "nom": "Valaurie",
+  "code": "26360",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26310"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5655,
+      44.4938
+    ]
+  },
+  "surface": 4126.41,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 146,
+  "nom": "Valdrôme",
+  "code": "26361",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26000"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9151,
+      44.926
+    ]
+  },
+  "surface": 3681.32,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 62477,
+  "nom": "Valence",
+  "code": "26362",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1871,
+      44.4605
+    ]
+  },
+  "surface": 633.16,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 34,
+  "nom": "Valouse",
+  "code": "26363",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26420"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3777,
+      44.8794
+    ]
+  },
+  "surface": 4794.01,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 322,
+  "nom": "Vassieux-en-Vercors",
+  "code": "26364",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26400"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0343,
+      44.7767
+    ]
+  },
+  "surface": 2221.16,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 588,
+  "nom": "Vaunaveys-la-Rochette",
+  "code": "26365",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0914,
+      44.3907
+    ]
+  },
+  "surface": 3148.2,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 705,
+  "nom": "Venterol",
+  "code": "26367",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2451,
+      44.7172
+    ]
+  },
+  "surface": 1130.02,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 450,
+  "nom": "Vercheny",
+  "code": "26368",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.4017,
+      44.3924
+    ]
+  },
+  "surface": 2604.46,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 60,
+  "nom": "Verclause",
+  "code": "26369",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26170"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3532,
+      44.2915
+    ]
+  },
+  "surface": 2031.62,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 142,
+  "nom": "Vercoiran",
+  "code": "26370",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26340"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2067,
+      44.7383
+    ]
+  },
+  "surface": 2168.98,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 46,
+  "nom": "Véronne",
+  "code": "26371",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5572,
+      44.2318
+    ]
+  },
+  "surface": 1379.46,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 44,
+  "nom": "Vers-sur-Méouge",
+  "code": "26372",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26220"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1516,
+      44.5127
+    ]
+  },
+  "surface": 4042.48,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 272,
+  "nom": "Vesc",
+  "code": "26373",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "05700"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.606,
+      44.3195
+    ]
+  },
+  "surface": 1069.03,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 19,
+  "nom": "Villebois-les-Pins",
+  "code": "26374",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26560"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.5098,
+      44.2161
+    ]
+  },
+  "surface": 740.6,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 22,
+  "nom": "Villefranche-le-Château",
+  "code": "26375",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26510"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.2889,
+      44.4457
+    ]
+  },
+  "surface": 2622.51,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 117,
+  "nom": "Villeperdrix",
+  "code": "26376",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26110"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.0575,
+      44.3427
+    ]
+  },
+  "surface": 3522.34,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 1165,
+  "nom": "Vinsobres",
+  "code": "26377",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26470"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.3456,
+      44.5673
+    ]
+  },
+  "surface": 1664.32,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 34,
+  "nom": "Volvent",
+  "code": "26378",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.9708,
+      45.0487
+    ]
+  },
+  "surface": 765.42,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 936,
+  "nom": "Granges-les-Beaumont",
+  "code": "26379",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26600"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      4.8354,
+      45.1096
+    ]
+  },
+  "surface": 349.16,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 560,
+  "nom": "Gervans",
+  "code": "26380",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1629,
+      45.0295
+    ]
+  },
+  "surface": 900.61,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 894,
+  "nom": "Jaillans",
+  "code": "26381",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+},
+{
+  "codesPostaux": [
+    "26300"
+  ],
+  "centre": {
+    "type": "Point",
+    "coordinates": [
+      5.1284,
+      44.9321
+    ]
+  },
+  "surface": 1329.23,
+  "codeDepartement": "26",
+  "codeRegion": "84",
+  "population": 527,
+  "nom": "Saint-Vincent-la-Commanderie",
+  "code": "26382",
+  "departement": {
+    "code": "26",
+    "nom": "Drôme"
+  },
+  "region": {
+    "code": "84",
+    "nom": "Auvergne-Rhône-Alpes"
+  }
+}

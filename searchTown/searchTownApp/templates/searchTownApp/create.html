@@ -33,7 +33,7 @@
                     {% for field in form.visible_fields %}
                     <div>
                         {{ field.label_tag }}
-                        {% render_field field class="form-control" %}
+                        {{field }}
                         {% if field.help_text %}
                         <small>{{ field.help_text }}</small>
                         {% endif %}
