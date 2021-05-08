@@ -7,16 +7,32 @@ from django.views.generic import ListView, DetailView
 # Create your views here.
 
 class IndexView(ListView):
-    template_name = 'searchTownApp/index.html'
+    model = Town
     context_object_name = 'town_list'
+    template_name = 'searchTownApp/index.html'
 
     def get_queryset(self):
-        return Town.objects.all()
+        town_list = Town.objects.all()
+        return town_list
 
 
 class TownDetailView(DetailView):
     model = Town
     template_name = 'searchTownApp/town_detail.html'
+
+"""
+def create(request, template_name='searchTownApp/create.html'):
+    if request.method == 'POST':
+        form = TownForm(request.POST)
+        if form.is_valid():
+            try:
+                form.save()
+                # return redirect('searchTownApp/town_detail.html')
+            except:
+                pass
+        else:
+            form = TownForm()
+    return render(request, template_name, {'form': form})"""
 
 
 def show(request, pk):
@@ -24,17 +40,6 @@ def show(request, pk):
     # codePostal = CodesPostaux.objects.get(town=town.codeTown)
 
     return render(request, "searchTownApp/town_detail.html", {'town': town})
-
-
-def create(request):
-    if request.method == 'POST':
-        form = TownForm(request.POST)
-        if form.is_valid():
-            form.save()
-            return redirect('index')
-    form = TownForm()
-
-    return render(request, 'searchTownApp/create.html', {'form': form})
 
 
 def edit(request, pk, template_name='searchTownApp/edit.html'):
