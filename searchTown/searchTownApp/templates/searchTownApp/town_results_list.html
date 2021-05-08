@@ -1,0 +1,11 @@
+{% extends 'searchTownApp/base.html' %}
+{% block content %}
+    <div>
+        <h1>Town results</h1>
+    <ul>
+        {% for town_result in town_results_list %}
+            <li>{{ town_result.name }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+{% endblock %}

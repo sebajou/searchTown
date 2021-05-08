@@ -24,5 +24,5 @@ urlpatterns = [
     path('town/edit/<str:pk>/', views.edit, name='edit'),
     # path('town/create/', views.create, name='edit'),
     path('town/delete/<str:pk>/', views.delete, name='delete'),
-    path('town_search/', views.TownsAPIView.as_view()),
+    path('town_search/?search=', views.TownsAPIView.as_view(), name='search'),
 ]

@@ -4,6 +4,9 @@ from .forms import TownForm
 from django.views.generic import ListView, DetailView
 from rest_framework import generics, filters
 from .serializers import TownSerializer
+from rest_framework.renderers import TemplateHTMLRenderer
+from rest_framework.response import Response
+from rest_framework.views import APIView
 
 # Create your views here.
 
@@ -65,3 +68,14 @@ class TownsAPIView(generics.ListCreateAPIView):
     filter_backends = (filters.SearchFilter,)
     queryset = Town.objects.all()
     serializer_class = TownSerializer
+
+# class TownsAPIView(APIView):
+#     search_fields = ['nameTown', 'townPostalcode__codePostal']
+#     filter_backends = (filters.SearchFilter,)
+#     serializer_class = TownSerializer
+#     renderer_classes = [TemplateHTMLRenderer]
+#     template_name = 'town_results_list.html'
+#
+#     def get(self, request):
+#         queryset = Town.objects.all()
+#         return Response({'town_results_list': queryset})

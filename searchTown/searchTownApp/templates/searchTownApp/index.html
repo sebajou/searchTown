@@ -1,6 +1,12 @@
 {% extends 'searchTownApp/base.html' %}
 {% block content %}
 <div>
+    <div>
+        <form class="navbar-button" action="{% url 'search' %}" method="get">{% csrf_token %}
+            <input id="search" type="text" name="search" placeholder="Chercher" value="{{ request.GET.search }}">
+            <button type="submit">Chercher</button>
+        </form>
+    </div>
         <div>
             <br />
             <a href="{% url 'edit' 777 %}">
