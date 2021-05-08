@@ -2,7 +2,8 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .models import Town, CodesPostaux
 from .forms import TownForm
 from django.views.generic import ListView, DetailView
-
+from rest_framework import generics, filters
+from .serializers import TownSerializer
 
 # Create your views here.
 
@@ -57,3 +58,10 @@ def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
         town.delete()
         return redirect('index')
     return render(request, template_name, {'object': town})
+
+
+class TownsAPIView(generics.ListCreateAPIView):
+    search_fields = ['nameTown', 'townPostalcode__codePostal']
+    filter_backends = (filters.SearchFilter,)
+    queryset = Town.objects.all()
+    serializer_class = TownSerializer

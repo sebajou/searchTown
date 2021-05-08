@@ -26,6 +26,7 @@ class DepartementSerializer(serializers.ModelSerializer):
 class TownSerializer(serializers.ModelSerializer):
     class Meta:
         model = Town
-        fields = ('codeTown', 'nameTown', 'centerCoordinateLat', 'centerCoordinateLong', 'surface', 'population')
+        fields = ('codeTown', 'nameTown', 'centerCoordinateLat', 'centerCoordinateLong', 'surface', 'population',
+                  'codeRegion', 'codeDepartement', 'townPostalcode')
         read_only_fields = ['codeTown', 'nameTown', 'centerCoordinateLat', 'centerCoordinateLong', 'surface',
-                            'population']
+                            'population', 'codeRegion', 'codeDepartement', 'townPostalcode']
