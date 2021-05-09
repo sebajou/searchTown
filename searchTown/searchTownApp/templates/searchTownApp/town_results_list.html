@@ -4,7 +4,33 @@
         <h1>Town results</h1>
     <ul>
         {% for town_result in search_result %}
-            <li>{{ town_result.nameTown }}</li>
+            {% if town_result.population > 100000 %}
+                <div style="color:MediumSeaGreen;">
+                    <li>{{ town_result.nameTown }}</li>
+                </div>
+            {% else %}
+                <div>
+                    <li>{{ town_result.nameTown }}</li>
+                </div>
+            {% endif %}
+            <div>
+                <a href="{% url 'detail' town_result.codeTown %}">
+                <button type="button">
+                    Detail {{ town_result.codeTown }}
+                </button></a>
+            </div>
+            <div>
+                <a href="{% url 'edit' town_result.codeTown %}">
+                <button type="button">
+                    Edit {{ town_result.codeTown }}
+                </button></a>
+            </div>
+            <div>
+                <a href="{% url 'delete' town_result.codeTown %}">
+                <button type="button">
+                    Delete {{ town_result.codeTown }}
+                </button></a>
+            </div>
         {% endfor %}
     </ul>
     </div>
