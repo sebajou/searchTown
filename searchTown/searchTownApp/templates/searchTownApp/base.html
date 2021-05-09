@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>CRUD</title>
+ <title>searchTownApp</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 </head>
 <body>
+    <div>
+        <form action="{% url 'search_from_endpoint' %}" method="post">{% csrf_token %}
+            <input id="search_from_endpoint" type="text" name="search_from_endpoint" placeholder="Chercher">
+            <button type="submit">Chercher</button>
+        </form>
+    </div>
 {% block content %}
 {% endblock %}
 </body>
