@@ -26,7 +26,7 @@ class TestsPopDBFromJsonWithCategories:
 
     @pytest.mark.django_db
     def tests_show(self):
-        response = c.get('/town/26004')
+        response = c.get('/town/show/26004')
         assert response.status_code == 301
 
     # @pytest.mark.django_db

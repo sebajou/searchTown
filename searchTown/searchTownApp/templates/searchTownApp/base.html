@@ -7,8 +7,18 @@
 </head>
 <body>
     <div>
+        <h3>Chercher une ville à partir de son nom ou de son code postal :</h3>
         <form action="{% url 'search_from_endpoint' %}" method="post">{% csrf_token %}
             <input id="search_from_endpoint" type="text" name="search_from_endpoint" placeholder="Chercher">
+            <button type="submit">Chercher</button>
+        </form>
+    </div>
+    <div>
+        <h3>Chercher les villes autour d'un point géographique :</h3>
+        <form action="{% url 'around' %}" method="post">{% csrf_token %}
+            <input id="lat" type="text" name="lat" placeholder="lattitude">
+            <input id="lon" type="text" name="lon" placeholder="longitude">
+            <input id="dist" type="text" name="dist" placeholder="dist">
             <button type="submit">Chercher</button>
         </form>
     </div>

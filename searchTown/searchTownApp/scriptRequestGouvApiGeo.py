@@ -4,6 +4,7 @@ from .models import CodesPostaux, Region, Departement, Town
 import string
 import pickle
 import re
+from django.contrib.gis.geos import Point
 
 
 class PopDBFromJson:
@@ -102,13 +103,15 @@ class PopDBFromJson:
                 r = Region.objects.get(codeRegion=communes_inside_json["region"]["code"])
                 d = Departement.objects.get(codeDepartement=communes_inside_json["departement"]["code"])
                 town = Town(codeTown=communes_inside_json["code"],
-                             nameTown=communes_inside_json["nom"],
-                             centerCoordinateLat=(communes_inside_json["centre"]["coordinates"][0]*10000),
-                             centerCoordinateLong=(communes_inside_json["centre"]["coordinates"][1]*10000),
-                             surface=(communes_inside_json["surface"]*100),
-                             population=communes_inside_json["population"],
-                             codeRegion=r,
-                             codeDepartement = d)
+                            nameTown=communes_inside_json["nom"],
+                            centerCoordinateLat=(communes_inside_json["centre"]["coordinates"][1]),
+                            centerCoordinateLong=(communes_inside_json["centre"]["coordinates"][0]),
+                            center=Point(communes_inside_json["centre"]["coordinates"][1],
+                                 communes_inside_json["centre"]["coordinates"][0]),
+                            surface=(communes_inside_json["surface"]),
+                            population=communes_inside_json["population"],
+                            codeRegion=r,
+                            codeDepartement = d)
                 town.save()
                 if CodesPostaux.objects.filter(codePostal=communes_inside_json["codesPostaux"][0]):
                     pass

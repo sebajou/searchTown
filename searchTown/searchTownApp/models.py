@@ -1,5 +1,5 @@
-from django.db import models
-
+# from django.db import models
+from  django.contrib.gis.db import models
 # Create your models here.
 
 
@@ -33,9 +33,10 @@ class Departement(models.Model):
 class Town(models.Model):
     codeTown = models.CharField(primary_key=True, max_length=20)
     nameTown = models.CharField(max_length=70)
-    centerCoordinateLat = models.IntegerField()
-    centerCoordinateLong = models.IntegerField()
-    surface = models.IntegerField()
+    centerCoordinateLat = models.FloatField()
+    centerCoordinateLong = models.FloatField()
+    center = models.PointField()
+    surface = models.FloatField()
     population = models.IntegerField()
     townPostalcode = models.ManyToManyField(CodesPostaux)
     codeRegion = models.ForeignKey(Region, on_delete=models.DO_NOTHING)

@@ -26,5 +26,6 @@ urlpatterns = [
     path('town/delete/<str:pk>/', views.delete, name='delete'),
     path('town_search/?search=', views.TownsAPIView.as_view(), name='search'),
     path('town/town_results_list/', views.search_from_endpoint, name='search_from_endpoint'),
+    path('searchTownApp/town_results_around', views.search_around_point, name='around'),
     # path('town/search_results/', views.search_results, name='search_results'),
 ]

@@ -9,6 +9,8 @@ from rest_framework.renderers import TemplateHTMLRenderer
 from rest_framework.response import Response
 from rest_framework.views import APIView
 import requests
+from django.contrib.gis.measure import D
+from django.contrib.gis.geos import Point
 
 # Create your views here.
 
@@ -86,6 +88,16 @@ class TownsAPIView(generics.ListCreateAPIView):
     filter_backends = (filters.SearchFilter,)
     queryset = Town.objects.all()
     serializer_class = TownSerializer
+
+
+def search_around_point(request):
+    if request.method == 'POST' :
+        lat = request.POST.get('lat')
+        lon = request.POST.get('lon')
+        dist = request.POST.get('dist')
+        pnt = Point(float(lat), float(lon))
+        result_around_point = Town.objects.filter(center__distance_lte=(pnt, D(km=dist)))
+        return render(request, 'searchTownApp/town_results_around.html', {'result_around_point': result_around_point})
 
 
 

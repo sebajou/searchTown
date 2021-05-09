@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Edit Contact</title>
-    <meta charset="utf-8">
-
-</head>
-
-<body>
+{% extends 'searchTownApp/base.html' %}
+{% block content %}
 <div>
     <ul>
         <li>
@@ -21,6 +13,9 @@
         </li>
         <li>
             Longitude de la commune : {{ town.centerCoordinateLong }}
+        </li>
+        <li>
+            Longitude et lattitude de la commune : {{ town.center }}
         </li>
         <li>
             Surface de la commune : {{ town.surface }}
@@ -39,5 +34,4 @@
         </li>
     </ul>
 </div>
-</body>
-</html>
+{% endblock %}
