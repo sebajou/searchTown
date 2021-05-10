@@ -32,6 +32,14 @@
         <li>
             Code du département de la commune : {{ town.codeDepartement }}
         </li>
+        <li>
+            <form action="{% url 'around' %}" method="post">{% csrf_token %}
+                Chercher a <input id="dist" type="text" name="dist" placeholder="dist"> km autour de cette communes :
+                <input id="lat" type="text" name="lat" value={{ town.centerCoordinateLat }}>
+                <input id="lon" type="text" name="lon" value={{ town.centerCoordinateLong }}>
+                <button type="submit">Chercher</button>
+            </form>
+        </li>
     </ul>
 </div>
 {% endblock %}
