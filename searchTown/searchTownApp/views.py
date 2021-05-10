@@ -75,12 +75,13 @@ def search_from_endpoint(request):
     if request.method == 'POST':
         search_posted = request.POST.get('search_from_endpoint')
         print(search_posted)
+        base_url = 'http://'
         if DEBUG:
-            host = 'http://127.0.0.1:8000'
+            host = '127.0.0.1:8000'
         else:
             host = ALLOWED_HOSTS[0]
-        base_url = '/town_search/%3Fsearch=?search='
-        url = host + base_url + search_posted
+        medium_url = '/town_search/%3Fsearch=?search='
+        url = base_url + host + medium_url + search_posted
         print(url)
         r = requests.get(url)
         search_result_json = r.json()
