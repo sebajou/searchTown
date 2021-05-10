@@ -81,6 +81,7 @@ def search_from_endpoint(request):
             host = ALLOWED_HOSTS[0]
         base_url = '/town_search/%3Fsearch=?search='
         url = host + base_url + search_posted
+        print(url)
         r = requests.get(url)
         search_result_json = r.json()
         search_result = search_result_json
