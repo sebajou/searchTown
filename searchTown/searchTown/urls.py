@@ -19,7 +19,7 @@ from searchTownApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('town/', views.IndexView.as_view(), name='index'),
+    path('', views.IndexView.as_view(), name='index'),
     path('town/show/<str:pk>/', views.show, name='detail'),
     path('town/edit/<str:pk>/', views.edit, name='edit'),
     # path('town/create/', views.create, name='edit'),
