@@ -29,19 +29,21 @@ class TownDetailView(DetailView):
     model = Town
     template_name = 'searchTownApp/town_detail.html'
 
-"""
-def create(request, template_name='searchTownApp/create.html'):
+
+def edit(request, pk, template_name='searchTownApp/edit.html'):
+
     if request.method == 'POST':
-        form = TownForm(request.POST)
+        town = Town.objects.get(pk=pk)
+        form = TownForm(request.POST, instance=town)
         if form.is_valid():
             try:
                 form.save()
                 # return redirect('searchTownApp/town_detail.html')
             except:
                 pass
-        else:
-            form = TownForm()
-    return render(request, template_name, {'form': form})"""
+    else:
+        form = TownForm()
+    return render(request, template_name, {'form': form})
 
 
 def show(request, pk):
@@ -51,13 +53,13 @@ def show(request, pk):
     return render(request, "searchTownApp/town_detail.html", {'town': town})
 
 
-def edit(request, pk, template_name='searchTownApp/edit.html'):
-    town = Town.objects.get(pk=pk)
-    form = TownForm(request.POST, instance=town)
-    if form.is_valid():
-        form.save()
-        return redirect('index')
-    return render(request, template_name, {'form': form})
+# def edit(request, pk, template_name='searchTownApp/edit.html'):
+#     town = Town.objects.get(pk=pk)
+#     form = TownForm(request.POST, instance=town)
+#     if form.is_valid():
+#         form.save()
+#         return redirect('index')
+#     return render(request, template_name, {'form': form})
 
 
 def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
