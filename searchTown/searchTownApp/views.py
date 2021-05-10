@@ -11,6 +11,8 @@ from rest_framework.views import APIView
 import requests
 from django.contrib.gis.measure import D
 from django.contrib.gis.geos import Point
+from searchTown.settings import ALLOWED_HOSTS, DEBUG
+
 
 # Create your views here.
 
@@ -31,7 +33,6 @@ class TownDetailView(DetailView):
 
 
 def edit(request, pk, template_name='searchTownApp/edit.html'):
-
     if request.method == 'POST':
         town = Town.objects.get(pk=pk)
         form = TownForm(request.POST, instance=town)
@@ -74,8 +75,12 @@ def search_from_endpoint(request):
     if request.method == 'POST':
         search_posted = request.POST.get('search_from_endpoint')
         print(search_posted)
-        base_url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search='
-        url = base_url + search_posted
+        if DEBUG:
+            host = 'http://127.0.0.1:8000'
+        else:
+            host = ALLOWED_HOSTS[0]
+        base_url = '/town_search/%3Fsearch=?search='
+        url = host + base_url + search_posted
         r = requests.get(url)
         search_result_json = r.json()
         search_result = search_result_json
@@ -93,29 +98,10 @@ class TownsAPIView(generics.ListCreateAPIView):
 
 
 def search_around_point(request):
-    if request.method == 'POST' :
+    if request.method == 'POST':
         lat = request.POST.get('lat')
         lon = request.POST.get('lon')
         dist = request.POST.get('dist')
         pnt = Point(float(lat), float(lon))
         result_around_point = Town.objects.filter(center__distance_lte=(pnt, D(km=dist)))
         return render(request, 'searchTownApp/town_results_around.html', {'result_around_point': result_around_point})
-
-
-
-
-# @api_view(['GET', 'POST', ])
-# def town_results(request, format=None):
-#     queryset = {'towns': Town.objects.all()}
-#     return Response(queryset, template_name='town_results_list.html')
-
-# class TownsAPIView(APIView):
-#     search_fields = ['nameTown', 'townPostalcode__codePostal']
-#     filter_backends = (filters.SearchFilter,)
-#     serializer_class = TownSerializer
-#     renderer_classes = [TemplateHTMLRenderer]
-#     template_name = 'town_results_list.html'
-#
-#     def get(self, request):
-#         queryset = Town.objects.all()
-#         return Response({'town_results_list': queryset})
