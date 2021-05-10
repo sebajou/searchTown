@@ -79,7 +79,8 @@ def search_from_endpoint(request):
         if DEBUG:
             host = '127.0.0.1:8000'
         else:
-            host = ALLOWED_HOSTS[0]
+            # host = ALLOWED_HOSTS[0]
+            host = '127.0.0.1:8000'
         medium_url = '/town_search/%3Fsearch=?search='
         url = base_url + host + medium_url + search_posted
         print(url)
