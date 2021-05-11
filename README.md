@@ -7,7 +7,28 @@ API de recherche des villes de France
 
 ### I-2 Requirements
 
-See requirements file. 
+#### Install Python and pip
+sudo apt-get install python3-pip python3-dev libpq
+
+#### Dependance for spatialite
+sudo apt-get install binutils libproj-dev gdal-bin
+sudo apt-get install libsqlite3-mod-spatialite
+sudo apt-get install gdal-bin
+
+#### For deployment on serveur you could need this
+sudo apt-get install nginx
+sudo apt install gunicorn
+
+#### Install node
+sudo apt update
+sudo apt install nodejs
+sudo apt install npm
+sudo npm install -g n
+sudo n stable
+
+
+#### Install Tailwind for Django
+See on readthedoc for[install django-tailwind](https://django-tailwind.readthedocs.io/en/latest/installation.html)
 
 ### I-3 - Get started
 
