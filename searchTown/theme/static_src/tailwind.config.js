@@ -32,7 +32,7 @@ module.exports = {
         '../templates/searchTownApp/*.html',
         'templates/searchTownApp/*.html',
         '../../../templates/searchTownApp/*.html',
-        'searchTown/searchTownApp/templates/searchTownApp/base.html'
+        'searchTown/searchTownApp/templates/searchTownApp/base.html',
 
         /* 
          * Templates in other django apps (BASE_DIR/<any_app_name>/templates).
