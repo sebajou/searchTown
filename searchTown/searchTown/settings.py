@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.getenv('SECRET_KEY', 'Optional default value')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 if DEBUG:
     ALLOWED_HOSTS = []
@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'searchTownApp',
+    'tailwind',
+    'theme',
 ]
 
 MIDDLEWARE = [
@@ -58,7 +60,13 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
+TAILWIND_APP_NAME = 'theme'
+
 ROOT_URLCONF = 'searchTown.urls'
+
+INTERNAL_IPS = [
+    "127.0.0.1",
+]
 
 TEMPLATES = [
     {

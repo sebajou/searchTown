@@ -1,39 +1,27 @@
 {% extends 'searchTownApp/base.html' %}
 {% block content %}
-<div>
-    <div>
-        <div></div>
-        <div >
-            <br />
-            <h6 style="text-align:center;">
-                <font color="red"> All fields are required</font>
-            </h6>
-        </div>
-        <div>
-        </div>
-    </div>
-    <div>
-        <div></div>
-        <div>
-            <form method="post">
-                {% csrf_token %}
-                {% for hidden_field in form.hidden_fields %}
-                    {{ hidden_field }}
-                {% endfor %}
-                {% for field in form.visible_fields %}
-                <div>
-                    {{ field.label_tag }}
-                    {{ field }}
-                    {% if field.help_text %}
-                    <small>{{ field.help_text }}</small>
-                    {% endif %}
-                </div>
-                {% endfor %}
-                <button type="submit">submit</button>
-            </form>
-            <br>
-        </div>
-        <div></div>
+<h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Fiche détaillé de la communes</h1>
+<div class="m-2 max-w-md mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden sm:w-auto md:max-w-6xl">
+    <div class="p-8">
+        <form method="post">
+            {% csrf_token %}
+            {% for hidden_field in form.hidden_fields %}
+                {{ hidden_field }}
+            {% endfor %}
+            {% for field in form.visible_fields %}
+            <div>
+                {{ field.label_tag }}
+                {{ field }}
+                {% if field.help_text %}
+                <small>{{ field.help_text }}</small>
+                {% endif %}
+            </div>
+            {% endfor %}
+            <button
+                    class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                    focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-4"
+                    type="submit">Soumettre</button>
+        </form>
     </div>
 </div>
 {% endblock %}

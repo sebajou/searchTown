@@ -4,34 +4,56 @@
  <title>searchTownApp</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% load tailwind_tags %}
 </head>
+    {% tailwind_css %}
 <body>
+
     <div>
-        <h1>Pour tout savoir sur la commune de votre choix. </h1>
-        <h3>Chercher une ville à partir de son nom ou de son code postal :</h3>
-        <form action="{% url 'search_from_endpoint' %}" method="post">{% csrf_token %}
-            <input id="search_from_endpoint" type="text" name="search_from_endpoint" placeholder="Chercher">
-            <button type="submit">Chercher</button>
-        </form>
+        <h1 class="mb-1 text-xl sm:text-4xl text-green-600 font-black italic text-center m-4">Pour tout savoir sur la commune de votre choix. </h1>
     </div>
-    <div>
-        <h3>Chercher les villes autour d'un point géographique :</h3>
-        <form action="{% url 'around' %}" method="post">{% csrf_token %}
-            <input id="lat" type="text" name="lat" placeholder="lattitude">
-            <input id="lon" type="text" name="lon" placeholder="longitude">
-            <input id="dist" type="text" name="dist" placeholder="dist">
-            <button type="submit">Chercher</button>
-        </form>
+    <div class="items-center grid gap-4 sm:grid-cols-1 md:grid-cols-3 m-2 border border-2 border-green-200 rounded-xl p-2">
+            <div class="place-self-center max-w-xl mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden md:max-w-1xl m-8 p-4">
+                <h3 class="mb-1 text-xs sm:text-lg tracking-wide text-gray-600">Chercher une ville à partir de son nom ou de son code postal :</h3>
+                <form action="{% url 'search_from_endpoint' %}" method="post">{% csrf_token %}
+                    <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
+                            id="search_from_endpoint" type="text" name="search_from_endpoint" placeholder="Chercher">
+                    <button class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full"
+                            type="submit">Chercher</button>
+                </form>
+            </div>
+            <div class="place-self-center p-4">
+                <a href="{% url 'edit' 777 %}">
+                    <button
+                            class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full"
+                            type="button">
+                        Créer une ville
+                    </button>
+                </a>
+            </div>
+            <div class="place-self-center max-w-xl mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden md:max-w-1xl m-8 p-4">
+                <h3 class="mb-1 text-xs sm:text-lg tracking-wide text-gray-600">Chercher les villes autour d'un point géographique :</h3>
+                <form action="{% url 'around' %}" method="post">{% csrf_token %}
+                    <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
+                            id="lat" type="text" name="lat" placeholder="lattitude">
+                    <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
+                            id="lon" type="text" name="lon" placeholder="longitude">
+                    <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
+                            id="dist" type="text" name="dist" placeholder="dist">
+                    <button class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                            focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full"
+                            type="submit">Chercher
+                    </button>
+                </form>
+            </div>
     </div>
-    <div>
-        <br />
-        <a href="{% url 'edit' 777 %}">
-            <button type="button">
-                Create
-            </button>
-        </a>
-        <br />
-    </div>
+
 {% block content %}
 {% endblock %}
 </body>

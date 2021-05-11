@@ -18,7 +18,7 @@ class TestsPopDBFromJsonWithCategories:
 
     @pytest.mark.django_db
     def tests_IndexView(self):
-        response = c.get('/town/')
+        response = c.get('/')
         assert response.status_code == 200
 
     def tests_TownDetailView(self):
