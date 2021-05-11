@@ -9,6 +9,7 @@ API de recherche des villes de France
 
 #### Install Python and pip
 sudo apt-get install python3-pip python3-dev libpq
+sudo apt install python3-testresources
 
 #### Dependance for spatialite
 sudo apt-get install binutils libproj-dev gdal-bin
@@ -19,13 +20,19 @@ sudo apt-get install gdal-bin
 sudo apt-get install nginx
 sudo apt install gunicorn
 
+##### Set enviroment variable
+In nano ~/.bashrc add:
+export SECRET_KEY='your secret key'
+export DJANGO_SETTINGS_MODULE="searchTown.settings"
+export NPM_BIN_PATH="/usr/local/bin/npm"
+
 #### Install node
 sudo apt update
 sudo apt install nodejs
 sudo apt install npm
 sudo npm install -g n
 sudo n stable
-
+npm install nodemon
 
 #### Install Tailwind for Django
 See on readthedoc for[install django-tailwind](https://django-tailwind.readthedocs.io/en/latest/installation.html)
@@ -36,7 +43,7 @@ See on readthedoc for[install django-tailwind](https://django-tailwind.readthedo
 2. Navigate into the directory ```[cd searchTown]```
 3. Source the virtual environment ```[python3 -m env]```
 4. Activate venv ```[source env/bin/activate]```
-5. Install the dependencies ```[pip install -r requirements.txt]```
+5. Install the dependencies ```[pip3 install -r requirements.txt]```
 
 ### I-5 - How to run
 

@@ -27,7 +27,13 @@ module.exports = {
          * Adjust the following line to match your project structure.
          */
         '../../templates/**/*.html',
-        
+        '../templates/**/*.html',
+        '../../templates/searchTownApp/*.html',
+        '../templates/searchTownApp/*.html',
+        'templates/searchTownApp/*.html',
+        '../../../templates/searchTownApp/*.html',
+        'searchTown/searchTownApp/templates/searchTownApp/base.html'
+
         /* 
          * Templates in other django apps (BASE_DIR/<any_app_name>/templates).
          * Adjust the following line to match your project structure.
