@@ -74,20 +74,13 @@ def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
 def search_from_endpoint(request):
     if request.method == 'POST':
         search_posted = request.POST.get('search_from_endpoint')
-        print(search_posted)
-        base_url = 'http://'
         if DEBUG:
-            host = '127.0.0.1:8000'
+            url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search=' + search_posted
         else:
-            host = ALLOWED_HOSTS[0]
-        medium_url = '/town_search/%3Fsearch=?search='
-        url = base_url + host + medium_url + search_posted
+            url = 'http://134.209.82.129/town_search/%3Fsearch=?search=' + search_posted
         print(url)
         r = requests.get(url)
-        search_result_json = r.json()
-        search_result = search_result_json
-
-        print(search_result)
+        search_result = r.json()
 
         return render(request, 'searchTownApp/town_results_list.html', {'search_result': search_result})
 
