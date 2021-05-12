@@ -12,7 +12,7 @@ import requests
 from django.contrib.gis.measure import D
 from django.contrib.gis.geos import Point
 from searchTown.settings import ALLOWED_HOSTS, DEBUG
-
+from django.views.decorators.csrf import csrf_exempt
 
 # Create your views here.
 
@@ -71,14 +71,14 @@ def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
     return render(request, template_name, {'object': town})
 
 
+@csrf_exempt
 def search_from_endpoint(request):
     if request.method == 'POST':
         search_posted = request.POST.get('search_from_endpoint')
         if DEBUG:
             url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search=' + search_posted
         else:
-            url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search=' + search_posted
-            # url = 'http://134.209.82.129/town_search/%3Fsearch=?search=' + search_posted
+            url = 'http://134.209.82.129/town_search/%3Fsearch=?search=' + search_posted
         print(url)
         r = requests.get(url)
         search_result = r.json()
