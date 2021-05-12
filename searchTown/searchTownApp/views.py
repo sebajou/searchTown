@@ -77,7 +77,8 @@ def search_from_endpoint(request):
         if DEBUG:
             url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search=' + search_posted
         else:
-            url = 'http://134.209.82.129/town_search/%3Fsearch=?search=' + search_posted
+            url = 'http://127.0.0.1:8000/town_search/%3Fsearch=?search=' + search_posted
+            # url = 'http://134.209.82.129/town_search/%3Fsearch=?search=' + search_posted
         print(url)
         r = requests.get(url)
         search_result = r.json()
