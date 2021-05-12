@@ -141,7 +141,7 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
     BASE_DIR / "static",
-    '/searchTown/theme/static/',
+    BASE_DIR / '/searchTown/theme/static/',
 ]
 
 # Default primary key field type
