@@ -40,8 +40,8 @@ def edit(request, pk, template_name='searchTownApp/edit.html'):
 def show(request, pk):
     """Page to display detail about a Town"""
     town = Town.objects.get(pk=pk)
-
-    return render(request, "searchTownApp/town_detail.html", {'town': town})
+    townPostalcode = town.townPostalcode.all()
+    return render(request, "searchTownApp/town_detail.html", {'town': town, 'townPostalcode': townPostalcode})
 
 
 def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
