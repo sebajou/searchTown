@@ -4,20 +4,14 @@ from .forms import TownForm
 from django.views.generic import ListView, DetailView
 from rest_framework import generics, filters
 from .serializers import TownSerializer
-from rest_framework.decorators import api_view
-from rest_framework.renderers import TemplateHTMLRenderer
-from rest_framework.response import Response
-from rest_framework.views import APIView
 import requests
 from django.contrib.gis.measure import D
 from django.contrib.gis.geos import Point
 from searchTown.settings import ALLOWED_HOSTS, DEBUG
-from django.views.decorators.csrf import csrf_exempt
-
-# Create your views here.
 
 
 class IndexView(ListView):
+    """Welcome page"""
     model = Town
     context_object_name = 'town_list'
     template_name = 'searchTownApp/index.html'
@@ -27,19 +21,15 @@ class IndexView(ListView):
         return town_list
 
 
-class TownDetailView(DetailView):
-    model = Town
-    template_name = 'searchTownApp/town_detail.html'
-
-
 def edit(request, pk, template_name='searchTownApp/edit.html'):
+    """Allow editing of a Town detail. """
     if request.method == 'POST':
         town = Town.objects.get(pk=pk)
         form = TownForm(request.POST, instance=town)
         if form.is_valid():
             try:
                 form.save()
-                # return redirect('searchTownApp/town_detail.html')
+                return redirect('/')
             except:
                 pass
     else:
@@ -48,22 +38,14 @@ def edit(request, pk, template_name='searchTownApp/edit.html'):
 
 
 def show(request, pk):
+    """Page to display detail about a Town"""
     town = Town.objects.get(pk=pk)
-    # codePostal = CodesPostaux.objects.get(town=town.codeTown)
 
     return render(request, "searchTownApp/town_detail.html", {'town': town})
 
 
-# def edit(request, pk, template_name='searchTownApp/edit.html'):
-#     town = Town.objects.get(pk=pk)
-#     form = TownForm(request.POST, instance=town)
-#     if form.is_valid():
-#         form.save()
-#         return redirect('index')
-#     return render(request, template_name, {'form': form})
-
-
 def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
+    """Delete a Town from the database. """
     town = Town.objects.get(pk=pk)
     if request.method == 'POST':
         town.delete()
@@ -71,8 +53,8 @@ def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
     return render(request, template_name, {'object': town})
 
 
-@csrf_exempt
 def search_from_endpoint(request):
+    """Request to DRF endpoint for search a Town with name or postal code. """
     if request.method == 'POST':
         search_posted = request.POST.get('search_from_endpoint')
         if DEBUG:
@@ -87,6 +69,7 @@ def search_from_endpoint(request):
 
 
 class TownsAPIView(generics.ListCreateAPIView):
+    """View of DRF endpoint for search a Town with name or postal code. """
     search_fields = ['nameTown', 'townPostalcode__codePostal']
     filter_backends = (filters.SearchFilter,)
     queryset = Town.objects.all()
@@ -94,6 +77,7 @@ class TownsAPIView(generics.ListCreateAPIView):
 
 
 def search_around_point(request):
+    """Allow search around a Town functionality. """
     if request.method == 'POST':
         lat = request.POST.get('lat')
         lon = request.POST.get('lon')

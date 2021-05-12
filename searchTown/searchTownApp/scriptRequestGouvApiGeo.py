@@ -8,7 +8,7 @@ from django.contrib.gis.geos import Point
 
 
 class PopDBFromJson:
-    """Request https://geo.api.gouv.fr to optain json then populate database. """
+    """Request https://geo.api.gouv.fr to obtain json then populate database. """
 
     def __init__(self):
         self.list_codes_region = ['1', '2', '3', '4', '6', '11', '24', '27', '28', '32', '44', '52', '53', '75', '76',
@@ -16,7 +16,7 @@ class PopDBFromJson:
 
     @staticmethod
     def json_region_data_from_api(code_region):
-        f"""
+        """
         Request https://geo.api.gouv.fr/regions?code=code_region&fields=nom,code
         to obtain from region code list data about region in a json.
         """
@@ -119,6 +119,7 @@ class PopDBFromJson:
                     town.townPostalcode.create(codePostal=communes_inside_json["codesPostaux"][0])
 
     def populate_all_db(self):
+        """Execute all method of PopDBFromJson class to populate database. """
         region_code_list = self.list_codes_region
         # Populate region data
         for region_code in region_code_list:
