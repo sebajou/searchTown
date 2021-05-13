@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect, get_object_or_404
-from .models import Town, CodesPostaux
+from .models import Town, Center
 from .forms import TownForm
 from django.views.generic import ListView, DetailView
 from rest_framework import generics, filters
@@ -23,25 +23,30 @@ class IndexView(ListView):
 
 def edit(request, pk, template_name='searchTownApp/edit.html'):
     """Allow editing of a Town detail. """
+    town = Town.objects.get(pk=pk)
     if request.method == 'POST':
-        town = Town.objects.get(pk=pk)
-        form = TownForm(request.POST, instance=town)
+        # a_town = Town.objects.get(pk=pk)
+        form = TownForm(request.POST)
         if form.is_valid():
-            try:
-                form.save()
-                return redirect('/')
-            except:
-                pass
+        #     try:
+            form.save()
+                # return redirect('/')
+        #     except:
+        #         print('except')
+        # else:
+        #     print('not validate')
+        else:
+            print("errors : {}".format(form.errors))
     else:
         form = TownForm()
-    return render(request, template_name, {'form': form})
+    return render(request, template_name, {'form': form, 'town': town})
 
 
 def show(request, pk):
     """Page to display detail about a Town"""
     town = Town.objects.get(pk=pk)
-    townPostalcode = town.townPostalcode.all()
-    return render(request, "searchTownApp/town_detail.html", {'town': town, 'townPostalcode': townPostalcode})
+    # townPostalcode = town.townPostalcode.all()
+    return render(request, "searchTownApp/town_detail.html", {'town': town})
 
 
 def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):
@@ -70,7 +75,7 @@ def search_from_endpoint(request):
 
 class TownsAPIView(generics.ListCreateAPIView):
     """View of DRF endpoint for search a Town with name or postal code. """
-    search_fields = ['nameTown', 'townPostalcode__codePostal']
+    search_fields = ['nameTown', 'townPostalcode']
     filter_backends = (filters.SearchFilter,)
     queryset = Town.objects.all()
     serializer_class = TownSerializer
@@ -82,6 +87,12 @@ def search_around_point(request):
         lat = request.POST.get('lat')
         lon = request.POST.get('lon')
         dist = request.POST.get('dist')
-        pnt = Point(float(lat), float(lon))
-        result_around_point = Town.objects.filter(center__distance_lte=(pnt, D(km=dist)))
+        pnt = Point(float(lon), float(lat))
+        result_around_point_center = Center.objects.filter(center__distance_lte=(pnt, D(km=dist)))
+        result_around_point = {}
+        i = 0
+        for town in result_around_point_center:
+            result_around_point[i] = town
+            i += 1
+
         return render(request, 'searchTownApp/town_results_around.html', {'result_around_point': result_around_point})

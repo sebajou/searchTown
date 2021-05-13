@@ -1,12 +1,5 @@
 from rest_framework import serializers
-from .models import CodesPostaux, Region, Departement, Town
-
-
-class CodesPostauxSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = CodesPostaux
-        fields = ('codePostal')
-        read_only_fields = ['codePostal']
+from .models import Region, Departement, Town, Center
 
 
 class RegionSerializer(serializers.ModelSerializer):
@@ -30,3 +23,10 @@ class TownSerializer(serializers.ModelSerializer):
                   'codeRegion', 'codeDepartement', 'townPostalcode')
         read_only_fields = ['codeTown', 'nameTown', 'centerCoordinateLat', 'centerCoordinateLong', 'surface',
                             'population', 'codeRegion', 'codeDepartement', 'townPostalcode']
+
+
+class CenterSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Center
+        fields = ('codeTownCenter', 'center')
+        read_only_fields = ['codeTownCenter', 'center']

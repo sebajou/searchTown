@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.getenv('SECRET_KEY', 'Optional default value')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 if DEBUG:
     ALLOWED_HOSTS = []
@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.gis',
     'corsheaders',
     'rest_framework',
     'searchTownApp',
@@ -95,7 +96,7 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.spatialite',
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': BASE_DIR / 'db.sqlite3',
-        'NAME': BASE_DIR / 'db.spatialite',
+        'NAME': BASE_DIR / 'db.spatialite_v5',
     }
 }
 
