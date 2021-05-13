@@ -84,15 +84,18 @@ class TownsAPIView(generics.ListCreateAPIView):
 def search_around_point(request):
     """Allow search around a Town functionality. """
     if request.method == 'POST':
+        # Latitude, longitude of point around where we look for other town
         lat = request.POST.get('lat')
         lon = request.POST.get('lon')
-        dist = request.POST.get('dist')
         pnt = Point(float(lon), float(lat))
+        # Distance around the point where look town around
+        dist = request.POST.get('dist')
+        # Calculate with django.contrib.gis for town around in Center table
         result_around_point_center = Center.objects.filter(center__distance_lte=(pnt, D(km=dist)))
-        result_around_point = {}
-        i = 0
-        for town in result_around_point_center:
-            result_around_point[i] = town
-            i += 1
+        # Collect codeTown in list from Center table, then filter on Town table with this list
+        pk_around = []
+        for i in result_around_point_center:
+            pk_around.append(i.codeTownCenter.codeTown)
+        result_around_point = Town.objects.filter(pk__in=pk_around)
 
         return render(request, 'searchTownApp/town_results_around.html', {'result_around_point': result_around_point})
