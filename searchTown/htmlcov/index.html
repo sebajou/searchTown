@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Coverage report</title>
+    <link rel="icon" sizes="32x32" href="favicon_32.png">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.ba-throttle-debounce.min.js"></script>
+    <script type="text/javascript" src="jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="coverage_html.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(coverage.index_ready);
+    </script>
+</head>
+<body class="indexfile">
+<div id="header">
+    <div class="content">
+        <h1>Coverage report:
+            <span class="pc_cov">70%</span>
+        </h1>
+        <img id="keyboard_icon" src="keybd_closed.png" alt="Show keyboard shortcuts" />
+        <form id="filter_container">
+            <input id="filter" type="text" value="" placeholder="filter..." />
+        </form>
+    </div>
+</div>
+<div class="help_panel">
+    <img id="panel_icon" src="keybd_open.png" alt="Hide keyboard shortcuts" />
+    <p class="legend">Hot-keys on this page</p>
+    <div>
+    <p class="keyhelp">
+        <span class="key">n</span>
+        <span class="key">s</span>
+        <span class="key">m</span>
+        <span class="key">x</span>
+        <span class="key">c</span> &nbsp; change column sorting
+    </p>
+    </div>
+</div>
+<div id="index">
+    <table class="index">
+        <thead>
+            <tr class="tablehead" title="Click to sort">
+                <th class="name left headerSortDown shortkey_n">Module</th>
+                <th class="shortkey_s">statements</th>
+                <th class="shortkey_m">missing</th>
+                <th class="shortkey_x">excluded</th>
+                <th class="right shortkey_c">coverage</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr class="total">
+                <td class="name left">Total</td>
+                <td>396</td>
+                <td>119</td>
+                <td>0</td>
+                <td class="right" data-ratio="277 396">70%</td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr class="file">
+                <td class="name left"><a href="conftest_py.html">conftest.py</a></td>
+                <td>11</td>
+                <td>2</td>
+                <td>0</td>
+                <td class="right" data-ratio="9 11">82%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="fill_db_from_api_py.html">fill_db_from_api.py</a></td>
+                <td>3</td>
+                <td>3</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 3">0%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="manage_py.html">manage.py</a></td>
+                <td>12</td>
+                <td>12</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 12">0%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTown___init___py.html">searchTown/__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTown_asgi_py.html">searchTown/asgi.py</a></td>
+                <td>4</td>
+                <td>4</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 4">0%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTown_settings_py.html">searchTown/settings.py</a></td>
+                <td>26</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="25 26">96%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTown_urls_py.html">searchTown/urls.py</a></td>
+                <td>4</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 4">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTown_wsgi_py.html">searchTown/wsgi.py</a></td>
+                <td>4</td>
+                <td>4</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 4">0%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp___init___py.html">searchTownApp/__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_admin_py.html">searchTownApp/admin.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_apps_py.html">searchTownApp/apps.py</a></td>
+                <td>4</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 4">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_forms_py.html">searchTownApp/forms.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_migrations_0001_initial_py.html">searchTownApp/migrations/0001_initial.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_migrations___init___py.html">searchTownApp/migrations/__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_models_py.html">searchTownApp/models.py</a></td>
+                <td>33</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="33 33">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_scriptRequestGouvApiGeo_py.html">searchTownApp/scriptRequestGouvApiGeo.py</a></td>
+                <td>78</td>
+                <td>56</td>
+                <td>0</td>
+                <td class="right" data-ratio="22 78">28%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_serializers_py.html">searchTownApp/serializers.py</a></td>
+                <td>22</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="22 22">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_tests_py.html">searchTownApp/tests.py</a></td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="1 1">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="searchTownApp_views_py.html">searchTownApp/views.py</a></td>
+                <td>71</td>
+                <td>17</td>
+                <td>0</td>
+                <td class="right" data-ratio="54 71">76%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests___init___py.html">tests/__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_tests_scriptRequestGouvApiGeo_py.html">tests/tests_scriptRequestGouvApiGeo.py</a></td>
+                <td>35</td>
+                <td>20</td>
+                <td>0</td>
+                <td class="right" data-ratio="15 35">43%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_tests_searchTownApp_view_py.html">tests/tests_searchTownApp_view.py</a></td>
+                <td>64</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="64 64">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="theme___init___py.html">theme/__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="theme_apps_py.html">theme/apps.py</a></td>
+                <td>3</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="3 3">100%</td>
+            </tr>
+        </tbody>
+    </table>
+    <p id="no_rows">
+        No items found using the specified filter.
+    </p>
+</div>
+<div id="footer">
+    <div class="content">
+        <p>
+            <a class="nav" href="https://coverage.readthedocs.io">coverage.py v5.5</a>,
+            created at 2021-05-14 20:47 +0000
+        </p>
+    </div>
+</div>
+</body>
+</html>

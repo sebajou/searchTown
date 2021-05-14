@@ -22,10 +22,10 @@ class TestsPopDBFromJsonWithCategories:
 
         self.schema_commune = Schema(And(dict))
 
-        # Open the bonbons_json_data
         """with open("communes_26.json", "r") as read_file:
             self.json_for_test = json.load(read_file)"""
 
+    @pytest.mark.api_request
     def test_json_region_data_from_api(self):
         schema_region_data = self.schema_region_data
         instance_pop_bd = script.PopDBFromJson()

@@ -1,9 +1,5 @@
 import requests
-import json
 from .models import Region, Departement, Town, Center
-import string
-import pickle
-import re
 from django.contrib.gis.geos import Point
 
 
@@ -89,30 +85,6 @@ class PopDBFromJson:
                                           codeRegion=r)
                 departement.save()
 
-    # @staticmethod
-    # def pop_region_db(data_region_json):
-    #     """Populate the database table of region with the json_region_data_from_api file."""
-    #     for region_inside_json in data_region_json:
-    #         if Region.objects.filter(codeRegion=region_inside_json["code"]):
-    #             pass
-    #         else:
-    #             region = Region(codeRegion=region_inside_json["code"], nameRegion=region_inside_json["nom"])
-    #             region.save()
-    #
-    # @staticmethod
-    # def pop_departement_db(data_departement_region_json):
-    #     """Populate the database table of region and departement with the json_departement_region_data_from_api file."""
-    #     for dep_inside_json in data_departement_region_json:
-    #         # Populate departement columns
-    #         if Departement.objects.filter(codeDepartement=dep_inside_json["code"]):
-    #             pass
-    #         else:
-    #             r = Region.objects.get(codeRegion=dep_inside_json["region"]["code"])
-    #             departement = Departement(nameDepartement=dep_inside_json["nom"],
-    #                                       codeDepartement=dep_inside_json["code"],
-    #                                       codeRegion=r)
-    #             departement.save()
-
     @staticmethod
     def pop_communes_db(data_communes_json):
         """Populate the database table of communes with the data_communes_json file."""
@@ -132,6 +104,7 @@ class PopDBFromJson:
                 existing_town.codeDepartement = d
                 existing_town.save()
 
+            # Fill Town and Center table
             else:
                 r = Region.objects.get(codeRegion=communes_inside_json["region"]["code"])
                 d = Departement.objects.get(codeDepartement=communes_inside_json["departement"]["code"])
@@ -145,12 +118,7 @@ class PopDBFromJson:
                             codeRegion=r,
                             codeDepartement=d)
                 town.save()
-                # Populate postal code
-                # if CodesPostaux.objects.filter(codePostal=communes_inside_json["codesPostaux"][0]):
-                #     pass
-                # else:
-                #     town.townPostalcode.create(codePostal=communes_inside_json["codesPostaux"][0])
-                # Populate center
+                # Fill Center table (one to one relastionship with Town table)
                 if Center.objects.filter(codeTownCenter=communes_inside_json["code"]):
                     pass
                 else:
@@ -160,68 +128,17 @@ class PopDBFromJson:
                     c.save()
                     print("after center fill")
 
-    # @staticmethod
-    # def pop_center_db(data_communes_json):
-    #     """Populate the database table of center communes point with the data_communes_json file."""
-    #     for communes_inside_json in data_communes_json:
-    #         # Update database if Town already exist
-    #         if Center.objects.filter(codeTownCenter=communes_inside_json["code"]):
-    #             lat = (communes_inside_json["centre"]["coordinates"][0])
-    #             long = (communes_inside_json["centre"]["coordinates"][1])
-    #             existing_center = Center.objects.get(codeTownCenter=communes_inside_json["code"])
-    #             existing_center.center = Point(communes_inside_json["centre"]["coordinates"][1],
-    #                                            communes_inside_json["centre"]["coordinates"][0])
-    #             existing_center.save()
-    #
-    #         else:
-    #             center = Center(
-    #                 codeTownCenter=communes_inside_json["code"],
-    #                 center=Point(communes_inside_json["centre"]["coordinates"][1],
-    #                              communes_inside_json["centre"]["coordinates"][0])
-    #             )
-    #             center.save()
-
     def populate_all_db(self):
         """Execute all method of PopDBFromJson class to populate database. """
         region_code_list = self.list_codes_region
         departement_list = self.list_codes_departement
-        # # Populate region data
-        # for region_code in region_code_list:
-        #     json_region = self.json_region_data_from_api(region_code)
-        #     self.pop_region_db(json_region)
-        # # Populate departement data
-        # for region_code in region_code_list:
-        #     json_departement = self.json_departement_region_data_from_api(region_code)
-        #     self.pop_departement_db(json_departement)
-        # # Create list of departement code
-        # departement_query = Departement.objects.all().values_list('codeDepartement')
-        # departement_list = []
-        # for departement in departement_query:
-        #     departement_list.append(departement[0])
 
-        # # Populate region data
-        # for departement in departement_list:
-        #     json_region = self.json_communes_data_from_api(departement)
-        #     self.pop_region_db(json_region)
-        # # Populate departement data
-        # for departement in departement_list:
-        #     json_departement = self.json_communes_data_from_api(departement)
-        #     self.pop_departement_db(json_departement)
-        # # Populate commune and postal code data
-        # for departement in departement_list:
-        #     json_communes = self.json_communes_data_from_api(departement)
-        #     self.pop_communes_db(json_communes)
-        # # Populate center of communes
-        # for departement in departement_list:
-        #     json_center = self.json_communes_data_from_api(departement)
-        #     self.pop_center_db(json_center)
-        # Populate region data
         for departement in departement_list:
             json_departement = self.json_communes_data_from_api(departement)
+            # Populate region table
             self.pop_region_db(json_departement)
-            # Populate departement data
+            # Populate departement table
             self.pop_departement_db(json_departement)
-            # Populate commune and postal code data
+            # Populate Town and Center table
             self.pop_communes_db(json_departement)
-            # Populate center of communes
-            # self.pop_center_db(json_departement)
+
