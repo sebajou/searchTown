@@ -20,12 +20,11 @@ from searchTownApp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.IndexView.as_view(), name='index'),
-    path('town/show/<str:pk>/', views.show, name='detail'),
-    path('town/edit/<str:pk>/', views.edit, name='edit'),
-    # path('town/create/', views.create, name='edit'),
+    path('town/create/', views.create, name='create'),
+    path('town/read/<str:pk>/', views.read, name='read'),
+    path('town/update/<str:pk>/', views.update, name='update'),
     path('town/delete/<str:pk>/', views.delete, name='delete'),
     path('town_search/?search=', views.TownsAPIView.as_view(), name='search'),
     path('town/town_results_list/', views.search_from_endpoint, name='search_from_endpoint'),
     path('searchTownApp/town_results_around', views.search_around_point, name='around'),
-    # path('town/search_results/', views.search_results, name='search_results'),
 ]

@@ -9,11 +9,14 @@
             <form method="post">
                 {% csrf_token %}
                 <div class="form-row">
-                    <div class="alert alert-warning">
+                    <div class="alert alert-warning mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4"">
                         Are you sure you want to delete {{ object }}?
                     </div>
                 </div>
-                <button type="submit">
+                <button
+                        class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                                    focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
+                                    type="submit">
                     <span>Supprimer</span>
                 </button>
             </form>

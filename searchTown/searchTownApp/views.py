@@ -1,7 +1,7 @@
-from django.shortcuts import render, redirect, get_object_or_404
+from django.shortcuts import render, redirect
 from .models import Town, Center
 from .forms import TownForm
-from django.views.generic import ListView, DetailView
+from django.views.generic import ListView
 from rest_framework import generics, filters
 from .serializers import TownSerializer
 import requests
@@ -21,32 +21,39 @@ class IndexView(ListView):
         return town_list
 
 
-def edit(request, pk, template_name='searchTownApp/edit.html'):
-    """Allow editing of a Town detail. """
-    town = Town.objects.get(pk=pk)
+def create(request, template_name='searchTownApp/create.html'):
+    """Allow Town creation. """
     if request.method == 'POST':
         # a_town = Town.objects.get(pk=pk)
         form = TownForm(request.POST)
         if form.is_valid():
-        #     try:
             form.save()
-                # return redirect('/')
-        #     except:
-        #         print('except')
-        # else:
-        #     print('not validate')
+            return redirect('/')
+        else:
+            print("errors : {}".format(form.errors))
+    else:
+        form = TownForm()
+    return render(request, template_name, {'form': form})
+
+
+def read(request, pk):
+    """Page to display detail about a Town"""
+    town = Town.objects.get(pk=pk)
+    return render(request, "searchTownApp/town_detail.html", {'town': town})
+
+
+def update(request, pk, template_name='searchTownApp/edit.html'):
+    """Allow editing of a Town detail. """
+    town = Town.objects.get(pk=pk)
+    if request.method == 'POST':
+        form = TownForm(request.POST, instance=town)
+        if form.is_valid():
+            form.save()
         else:
             print("errors : {}".format(form.errors))
     else:
         form = TownForm()
     return render(request, template_name, {'form': form, 'town': town})
-
-
-def show(request, pk):
-    """Page to display detail about a Town"""
-    town = Town.objects.get(pk=pk)
-    # townPostalcode = town.townPostalcode.all()
-    return render(request, "searchTownApp/town_detail.html", {'town': town})
 
 
 def delete(request, pk, template_name='searchTownApp/confirm_delete.html'):

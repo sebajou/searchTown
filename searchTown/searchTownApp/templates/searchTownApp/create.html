@@ -1,16 +1,32 @@
 {% extends 'searchTownApp/base.html' %}
 {% block content %}
-<h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Fiche détaillé de la communes</h1>
+
+<h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Creation d'un nouvelle commune. </h1>
 <div class="m-2 max-w-md mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden sm:w-auto md:max-w-6xl">
     <div class="p-8">
-    <form action="/town/create/" method="post">
-        {% csrf_token %}
-        {{ form }}
-        <input
-                class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
-                focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full"
-                type="submit" value="Submit">
-    </form>
+        <form method="post">
+            {% csrf_token %}
+            {% for hidden_field in form.hidden_fields %}
+                {{ hidden_field }}
+            {% endfor %}
+            {% for field in form.visible_fields %}
+            <div>
+                {{ field.label_tag }}
+                {{ field }}
+                {% if field.help_text %}
+                <small>{{ field.help_text }}</small>
+                {% endif %}
+            </div>
+            {% endfor %}
+            {% for field_geoForm in geoForm %}
+                {{ field_geoForm.label_tag }}
+                {{ field_geoForm }}
+            {% endfor %}
+            <button
+                    class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
+                    focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-4"
+                    type="submit">Soumettre</button>
+        </form>
     </div>
 </div>
 {% endblock %}

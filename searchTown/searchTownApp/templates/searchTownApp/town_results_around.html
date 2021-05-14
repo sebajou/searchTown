@@ -18,7 +18,7 @@
                         </div>
                         {% endif %}
                         <div>
-                            <a href="{% url 'detail' town_result.codeTown %}">
+                            <a href="{% url 'read' town_result.codeTown %}">
                             <button
                                     class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                                     focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
@@ -27,7 +27,7 @@
                             </button></a>
                         </div>
                         <div>
-                            <a href="{% url 'edit' town_result.codeTown %}">
+                            <a href="{% url 'update' town_result.codeTown %}">
                             <button
                                     class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                                     focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
