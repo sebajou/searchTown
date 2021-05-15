@@ -3,7 +3,6 @@ import json
 from schema import Schema, And
 from searchTownApp.models import Town
 from searchTownApp import scriptRequestGouvApiGeo as script
-import ast
 
 
 class TestsPopDBFromJsonWithCategories:
@@ -22,8 +21,8 @@ class TestsPopDBFromJsonWithCategories:
 
         self.schema_commune = Schema(And(dict))
 
-        """with open("communes_26.json", "r") as read_file:
-            self.json_for_test = json.load(read_file)"""
+        with open("communes.json", "r") as read_file:
+            self.json_for_test = json.load(read_file)
 
     @pytest.mark.api_request
     def test_json_region_data_from_api(self):
@@ -46,23 +45,19 @@ class TestsPopDBFromJsonWithCategories:
         schema_json_communes = self.schema_commune
         instance_pop_bd = script.PopDBFromJson()
         json_to_test = instance_pop_bd.json_communes_data_from_api("26")
-        print(json_to_test)
         for dict_to_test in json_to_test:
             assert schema_json_communes.is_valid(dict_to_test)
 
-    """
     @pytest.mark.django_db(transaction=True)
     def tests_pop_db(self):
-        1Verify that database is populate with the dictionary from json file.
+        # Verify that database is populate with the dictionary from json file.
         json_for_test = self.json_for_test
         # Populate the database with dictionary from json
         instance_pop_bd = script.PopDBFromJson()
         instance_pop_bd.pop_communes_db(data_communes_json=json_for_test)
         # Stoke data from model in dictionary
-        dictionary_from_model = Town.objects.values()
+        data_from_model = Town.objects.values()
         # Loop to assert that data from dictionary_from_json are stock in the database
-        for product_from_model in dictionary_from_model:
-            assert str(product_from_model["name"])
-            """
-
-
+        for product_from_model in data_from_model:
+            assert str(product_from_model["nameTown"])
+            assert float(product_from_model["surface"])
