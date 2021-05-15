@@ -1,6 +1,6 @@
 {% extends 'searchTownApp/base.html' %}
 {% block content %}
-<h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Fiche détaillé de la communes</h1>
+<h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Fiche détaillée de la commune</h1>
 <div class="m-2 max-w-md mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden sm:w-auto md:max-w-6xl">
     <div class="p-8">
         <ul class="divide-y divide-gray-300">
@@ -11,16 +11,16 @@
                 Code de la commune : {{ town.codeTown }}
             </li>
             <li>
-                Lattitude de la commune : {{ town.centerCoordinateLat }}
+                Latitude de la commune (DD.dddd) : {{ town.centerCoordinateLat }}
             </li>
             <li>
-                Longitude de la commune : {{ town.centerCoordinateLong }}
+                Longitude de la commune (DD.dddd): {{ town.centerCoordinateLong }}
             </li>
             <li>
-                Surface de la commune : {{ town.surface }}
+                Surface de la commune (km²) : {{ town.surface }}
             </li>
             <li>
-                Population de la commune : {{ town.population }}
+                Nombre d'habitants de la commune : {{ town.population }}
             </li>
             <li>
                 Code postal de la commune : {{ town.townPostalcode }}
@@ -33,12 +33,12 @@
             </li>
             <li>
                 <form action="{% url 'around' %}" method="post">{% csrf_token %}
-                    Chercher a
+                    Chercher à
                     <input
                             class="m-1 border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
-                            id="dist" type="text" name="dist" placeholder="dist">
-                    km autour de cette communes :
+                            id="dist" type="text" name="dist" placeholder="distance">
+                    km autour de cette commune :
                     <input
                             class="m-1 border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"

@@ -11,7 +11,7 @@
 <body>
 
     <div>
-        <h1 class="mb-1 text-xl sm:text-4xl text-green-600 font-black italic text-center m-4">Pour tout savoir sur la commune de votre choix. </h1>
+        <h1 class="mb-1 text-xl sm:text-4xl text-green-600 font-black italic text-center m-4">Pour tout savoir sur la commune de votre choix</h1>
     </div>
     <div class="items-center grid gap-4 sm:grid-cols-1 md:grid-cols-3 m-2 border border-2 border-green-200 rounded-xl p-2">
             <div class="place-self-center max-w-xl mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden md:max-w-1xl m-8 p-4">
@@ -40,13 +40,13 @@
                 <form action="{% url 'around' %}" method="post">{% csrf_token %}
                     <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
-                            id="lat" type="text" name="lat" placeholder="lattitude">
+                            id="lat" type="text" name="lat" placeholder="latitude">
                     <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
                             id="lon" type="text" name="lon" placeholder="longitude">
                     <input class="border border-2 border-green-200 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:border-transparent text-gray-400 font-bold py-2 px-4 rounded-full"
-                            id="dist" type="text" name="dist" placeholder="dist">
+                            id="dist" type="text" name="dist" placeholder="distance">
                     <button class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                             focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full"
                             type="submit">Chercher

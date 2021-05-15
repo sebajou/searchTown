@@ -1,7 +1,7 @@
 {% extends 'searchTownApp/base.html' %}
 {% block content %}
 <div>
-    <h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Résultats de la recherche des communes aux alentours</h1>
+    <h1 class="mb-1 text-sm sm:text-3xl text-gray-600 font-bold text-center m-4">Résultats de la recherche des communes alentours</h1>
     <div class="grid gap-4 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5">
     {% for town_result in result_around_point %}
         <div class="max-w-md mx-auto bg-green-100 rounded-xl shadow-xl overflow-hidden md:max-w-1xl m-8">
@@ -23,7 +23,7 @@
                                     class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                                     focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
                                     type="button">
-                                Detail {{ town_result.codeTown }}
+                                Détails
                             </button></a>
                         </div>
                         <div>
@@ -32,7 +32,7 @@
                                     class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                                     focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
                                     type="button">
-                                Edit {{ town_result.codeTown }}
+                                Editer
                             </button></a>
                         </div>
                         <div>
@@ -41,7 +41,7 @@
                                     class="bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-600
                                     focus:ring-opacity-50 text-white font-bold py-2 px-4 rounded-full m-1"
                                     type="button">
-                                Delete {{ town_result.codeTown }}
+                                Supprimer
                             </button></a>
                         </div>
                     </ul>
